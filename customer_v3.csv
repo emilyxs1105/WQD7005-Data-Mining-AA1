@@ -1,0 +1,1005 @@
+CustomerID,TotalSpent,FavoriteCategory,FavoritePayment,LastPurchaseDate,Age,Gender,Location,FullName,TotalPurchases,MembershipLevel,Churn
+41914,4613.7,Appliances,easypay,12/26/2020,39,F,ND,"Atkison, Ebony",8,gold,0
+60823,72,Mobiles & Tablets,,10/13/2020,56,M,MI,"Wescott, Lindsay",1,standard,1
+59210,1311.46,Beauty & Grooming,easypay,12/28/2020,54,F,AL,"Mancia, Leatha",17,silver,0
+60824,959.9,Mobiles & Tablets,payaxis,10/13/2020,35,F,ME,"Holtzman, Beulah",1,silver,1
+60825,635,Women's Fashion,cod,10/13/2020,18,M,NJ,"Sicard, Jonah",1,silver,1
+60826,255.5,Beauty & Grooming,cod,10/13/2020,26,M,WV,"Grado, Kevin",1,bronze,1
+60827,29500,Mobiles & Tablets,payaxis,10/13/2020,27,F,MO,"Levine, Simone",6,platinum,1
+60828,475,Health & Sports,cod,10/26/2020,24,M,NC,"Pyron, Marcellus",6,bronze,1
+60829,250,Men's Fashion,cod,10/13/2020,75,M,OH,"Rene, Rufus",1,bronze,1
+60830,250,Men's Fashion,cod,10/13/2020,39,F,OR,"Ussery, Laurice",1,bronze,1
+55323,812.5,Home & Living,cod,10/13/2020,56,M,IL,"Loggins, Lynn",1,silver,1
+55681,269.9,Computing,cod,10/13/2020,69,F,MO,"Huggard, Francine",1,bronze,1
+60831,250,Men's Fashion,cod,10/13/2020,27,F,NY,"Halpin, Natalia",1,bronze,1
+50477,,Women's Fashion,cod,10/15/2020,70,F,MI,"Lester, Aurora",3,silver,1
+60832,566.6,Men's Fashion,cod,10/14/2020,59,F,MA,"Alderson, Chan",5,silver,1
+8141,4656.78,Mobiles & Tablets,payaxis,10/25/2020,67,F,TX,"Troutt, Brigid",7,gold,1
+31987,931.3,Beauty & Grooming,cod,5/28/2021,45,M,WA,"Arredondo, Luis",10,silver,0
+59940,104.9,Kids & Baby,cod,10/13/2020,65,F,NY,"Deltoro, Hope",1,standard,1
+60833,250,Home & Living,cod,10/13/2020,34,M,TN,"Plascencia, Tobias",1,bronze,1
+52025,23546.3,Soghaat,easypay,1/23/2021,40,M,CA,"Mcandrew, Phillip",76,platinum,0
+60834,268,Men's Fashion,cod,10/13/2020,41,M,TN,"Gamboa, Will",2,,1
+60835,,Mobiles & Tablets,cod,10/13/2020,34,M,MO,"Remington, Otha",1,standard,1
+23587,1072.8,Men's Fashion,cod,12/31/2020,36,M,AL,"Plumlee, Robby",18,silver,0
+60836,55,Mobiles & Tablets,cod,10/13/2020,42,F,CA,"Mckeen, Alexia",2,standard,1
+60837,37.5,Men's Fashion,cod,10/14/2020,61,M,KY,"Porterfield, Herman",1,standard,1
+38009,109.3,Beauty & Grooming,cod,10/14/2020,64,F,TN,"Choquette, Keitha",2,standard,1
+12361,120,Beauty & Grooming,cod,10/14/2020,21,M,FL,"Walla, Norbert",1,standard,1
+60838,1144.9,Mobiles & Tablets,easypay,10/14/2020,56,F,CO,"Mcnealy, Lilly",1,silver,1
+57770,115,Mobiles & Tablets,payaxis,10/14/2020,74,F,AR,"Kouba, Myrtie",1,standard,1
+60839,199.6,Men's Fashion,cod,4/24/2021,72,M,MN,"Fetterman, Alex",4,bronze,0
+49278,154,Beauty & Grooming,cod,10/14/2020,29,F,TX,"Malott, Ivory",3,bronze,1
+60840,127.4,Men's Fashion,cod,10/14/2020,71,M,NJ,"Cota, Chong",2,standard,1
+60841,15,Books,cod,10/14/2020,46,M,GA,"Voorhees, Santos",1,standard,1
+60842,530,Women's Fashion,cod,10/15/2020,21,M,CA,"Huth, Miguel",2,silver,1
+60843,308,Mobiles & Tablets,,10/14/2020,52,M,VA,"Farnum, Ivan",1,bronze,1
+60844,77.8,Mobiles & Tablets,cod,10/14/2020,63,M,MN,"Kiger, Rocky",2,standard,1
+59047,332.9,Men's Fashion,cod,10/31/2020,36,F,CA,"Roberto, Yolonda",7,bronze,1
+60845,899.4,Men's Fashion,cod,10/30/2020,33,M,NY,"Pernell, Kristofer",4,silver,1
+60846,0,Men's Fashion,cod,10/14/2020,39,M,MI,"Ambrosino, Lucien",1,standard,1
+10558,755.54,Men's Fashion,cod,10/30/2020,28,F,NE,"Mercer, Florida",11,silver,1
+60847,449.7,Men's Fashion,cod,10/30/2020,52,F,WV,"Delgado, Julee",4,bronze,1
+60848,277.8,Mobiles & Tablets,cod,10/14/2020,44,M,OR,"Cromartie, Alphonse",1,bronze,1
+46197,744.2,Men's Fashion,cod,10/30/2020,47,F,CA,"Mundo, Shaquita",10,silver,1
+60849,89,Home & Living,cod,10/14/2020,49,F,NY,"Brownell, Corene",2,standard,1
+60850,1144.9,Mobiles & Tablets,payaxis,10/14/2020,72,M,IL,"Bruck, Federico",1,silver,1
+59051,101.4,Health & Sports,cod,10/14/2020,64,M,LA,"Serrato, Jamar",2,standard,1
+37733,8217.93,Women's Fashion,cod,10/31/2020,70,F,TX,"Richins, Larhonda",25,gold,1
+43425,286,Men's Fashion,cod,10/14/2020,64,F,AZ,"Holstein, Lucina",4,bronze,1
+55483,21925.2,Mobiles & Tablets,cod,12/17/2020,59,M,VA,"Esquivel, King",5,platinum,0
+60851,3688.9,Appliances,cod,10/14/2020,65,F,MN,"Munroe, Elisabeth",1,gold,1
+60852,2063.5,Appliances,cod,10/14/2020,75,F,OR,"Balling, Cristine",1,silver,1
+51717,17313.5,Appliances,cod,10/28/2020,28,F,VT,"Vanzandt, Yi",6,platinum,1
+32416,394.4,Men's Fashion,cod,10/18/2020,47,M,AR,"Henkel, Jere",5,bronze,1
+57272,110,Men's Fashion,cod,10/14/2020,73,F,CO,"Dimartino, Carline",2,standard,1
+60853,6500,Mobiles & Tablets,cod,10/14/2020,31,M,TX,"Brandenburg, Abdul",1,gold,1
+23660,1781.9,Books,cod,10/28/2020,24,M,CA,"Zastrow, Daryl",41,silver,1
+60854,60,Home & Living,cod,10/14/2020,29,F,LA,"Sibley, Arlena",1,standard,1
+60855,73,Kids & Baby,cod,10/14/2020,54,M,AL,"Liberatore, Jonas",1,standard,1
+41190,,Mobiles & Tablets,payaxis,4/29/2021,56,F,AL,"Meehan, Santana",35,platinum,0
+60856,9270.01,Entertainment,cod,3/28/2021,64,F,IA,"Savarese, Jacquelynn",41,gold,0
+60857,175.9,Soghaat,cod,10/14/2020,18,M,MA,"Albert, Ahmed",2,bronze,1
+32451,194.9,Mobiles & Tablets,cod,10/17/2020,35,M,FL,"Hallock, Eusebio",2,bronze,1
+48868,345.2,Health & Sports,cod,10/23/2020,46,M,NY,"Elks, Marshall",7,bronze,1
+60858,449.7,Men's Fashion,cod,10/30/2020,65,F,WA,"Gann, Myrna",4,bronze,1
+60859,449.7,Men's Fashion,cod,10/30/2020,32,M,DC,"Hartline, Marlin",4,bronze,1
+60860,429.6,Men's Fashion,cod,10/14/2020,42,F,IL,"Kirwan, Marceline",4,bronze,1
+33639,1865.87,Computing,easypay,12/27/2020,31,F,OH,"Rikard, Cari",5,silver,0
+60861,99.9,Mobiles & Tablets,cod,10/14/2020,38,M,CA,"Birney, Jimmie",1,standard,1
+60862,259,Beauty & Grooming,cod,10/25/2020,24,F,PA,"Alfonso, Carin",2,bronze,1
+60863,0,Men's Fashion,cod,10/14/2020,63,M,SC,"Reeder, Joel",1,standard,1
+56777,38,Health & Sports,cod,10/14/2020,51,F,OR,"Mcdavid, Siu",1,standard,1
+44696,7322.91,Mobiles & Tablets,cod,4/25/2021,58,M,NC,"Hausman, Norman",6,,0
+48443,683.6,Men's Fashion,cod,12/30/2020,44,F,IN,"Martens, Leo",21,silver,0
+54459,1523.16,Men's Fashion,cod,12/28/2020,47,F,UT,"Mulloy, Jaclyn",30,silver,0
+60864,400,Home & Living,cod,10/17/2020,67,F,WV,"Kuebler, Jimmie",3,bronze,1
+60865,129.9,Mobiles & Tablets,cod,10/14/2020,74,M,LA,"Taft, Denis",1,standard,1
+59323,414.19,Men's Fashion,easypay,12/17/2020,68,F,AK,"Ziemer, Leanora",7,bronze,0
+59903,605.7,Women's Fashion,cod,10/14/2020,34,F,VA,"Folk, Velda",1,silver,1
+60866,2896.2,Appliances,cod,10/25/2020,23,M,KS,"Cates, Ian",7,gold,1
+60867,30,Men's Fashion,cod,10/14/2020,18,M,NM,"Wacker, Perry",1,standard,1
+60868,30,Men's Fashion,,10/14/2020,75,F,NE,"Acord, Shaquita",2,standard,1
+55954,2933,Appliances,payaxis,10/25/2020,56,M,IN,"Norfleet, Wilmer",4,gold,1
+60869,449.7,Men's Fashion,cod,10/30/2020,72,M,WV,"Marston, Devon",4,bronze,1
+60870,29.9,Women's Fashion,easypay,10/14/2020,22,F,SD,"Donahue, Vicenta",1,standard,1
+60871,2520,Entertainment,cod,10/18/2020,56,M,MI,"Bruder, Samual",2,silver,1
+57981,4530.46,Men's Fashion,easypay,5/28/2021,66,M,MD,"Eads, Raphael",32,gold,0
+60872,135,Mobiles & Tablets,cod,10/14/2020,66,F,NY,"Kurtz, Syreeta",1,standard,1
+58937,8251.54,Men's Fashion,easypay,12/27/2020,75,F,NH,"Corman, Danette",31,,0
+60873,179.9,Men's Fashion,cod,10/14/2020,21,M,NY,"Laughlin, Wm",1,bronze,1
+41158,1734.7,Men's Fashion,easypay,1/31/2021,64,M,MO,"Guerin, Walton",12,silver,0
+60874,376.2,Health & Sports,cod,10/14/2020,33,F,NJ,"Bealer, Elia",4,bronze,1
+60875,351.9,Mobiles & Tablets,,11/14/2020,57,F,AZ,"Rowan, Geri",5,bronze,0
+60876,11838.4,Mobiles & Tablets,easypay,12/27/2020,35,M,OK,"Easterly, Andrew",3,platinum,0
+60877,265,Entertainment,cod,10/14/2020,39,F,NC,"Fountain, Brook",1,bronze,1
+60878,285.5,Men's Fashion,cod,10/14/2020,71,F,WI,"Thornhill, Doreen",7,bronze,1
+59413,385.9,Beauty & Grooming,cod,10/14/2020,55,M,VT,"Loos, Alden",6,bronze,1
+60879,1140.6,Mobiles & Tablets,cod,12/30/2020,48,F,CT,"Hetherington, Dorthey",6,silver,0
+60880,2747.5,Mobiles & Tablets,easypay,10/14/2020,29,F,NC,"Groom, Loreen",1,gold,1
+59907,62.5,Men's Fashion,cod,10/14/2020,58,F,PA,"Ormond, Kelley",1,standard,1
+42753,541.51,Mobiles & Tablets,easypay,12/24/2020,47,F,TN,"Zellner, Rivka",19,,0
+60881,149.3,Men's Fashion,cod,10/14/2020,55,M,TX,"Hodge, Julio",2,bronze,1
+60882,128,Beauty & Grooming,cod,10/14/2020,25,M,OK,"Roof, Gale",1,standard,1
+56749,322.5,Men's Fashion,cod,10/14/2020,49,M,NY,"Salvador, Burl",2,,1
+60883,144.5,Entertainment,cod,10/14/2020,62,M,GA,"Ikard, Pierre",1,bronze,1
+36126,65,Men's Fashion,cod,10/31/2020,42,F,VT,"Pinedo, So",3,standard,1
+60884,146.7,Women's Fashion,,10/14/2020,75,M,KY,"Rothenberg, Donte",4,bronze,1
+60885,1546.3,Women's Fashion,cod,5/23/2021,68,M,PA,"Outlaw, Lyman",8,,0
+60886,62.5,Men's Fashion,cod,10/14/2020,45,M,MO,"Fleischer, Waldo",1,standard,1
+60887,3280.8,Men's Fashion,cod,8/23/2021,35,F,PA,"Bissell, Denyse",4,gold,0
+60888,159.8,Women's Fashion,cod,10/14/2020,38,M,AL,"Bouley, Bill",2,bronze,1
+60889,43.8,Soghaat,cod,10/14/2020,24,F,CA,"Orozco, Leticia",1,standard,1
+1172,104,Mobiles & Tablets,cod,8/31/2021,39,F,WV,"Parramore, Nelle",3,standard,0
+60890,49.5,Mobiles & Tablets,cod,10/14/2020,44,M,OH,"Godby, Dannie",1,standard,1
+59641,2845.1,Women's Fashion,cod,12/30/2020,65,M,CA,"Guice, Royal",18,gold,0
+5754,680,Home & Living,cod,10/14/2020,51,M,IN,"Dameron, Kasey",1,silver,1
+42632,668,Women's Fashion,cod,11/16/2020,58,M,MT,"Castillon, Roland",3,silver,0
+60891,2084,Men's Fashion,cod,10/15/2020,68,F,FL,"Miler, Dimple",6,silver,1
+10605,12.4,Soghaat,cod,10/15/2020,37,M,GA,"Fuqua, Jared",1,standard,1
+44507,11607.86,Beauty & Grooming,easypay,12/29/2020,59,F,MD,"Jerez, Maurine",41,platinum,0
+57455,348.3,Women's Fashion,cod,10/15/2020,68,F,OR,"Mcmullin, Novella",2,bronze,1
+34560,898.53,Mobiles & Tablets,cod,12/20/2020,39,F,CA,"Smalling, Kizzy",5,silver,0
+1364,628.5,Home & Living,cod,10/25/2020,26,M,CA,"Frasure, Mitchel",6,,1
+12180,4799.8,Kids & Baby,payaxis,10/27/2020,30,F,IL,"Hendricks, Jesse",9,gold,1
+60892,2827,Mobiles & Tablets,payaxis,10/15/2020,48,F,AL,"Weyand, Alla",2,gold,1
+60893,16974.5,Mobiles & Tablets,easypay,10/16/2020,51,F,MA,"Turcotte, Nakita",9,platinum,1
+53400,217.7,Mobiles & Tablets,cod,10/15/2020,62,M,CO,"Chairez, Roderick",1,bronze,1
+4971,3448.9,Men's Fashion,cod,2/26/2021,18,F,PA,"Ore, Thea",13,gold,0
+60894,2268.3,Women's Fashion,cod,10/24/2020,74,M,MN,"Spaulding, Sid",2,silver,1
+60895,200,Beauty & Grooming,cod,10/15/2020,48,F,NM,"Keeton, Frankie",1,bronze,1
+60896,381.5,Mobiles & Tablets,cod,10/15/2020,59,F,CT,"Duhart, Kasi",3,bronze,1
+60897,,Men's Fashion,cod,12/20/2020,52,M,ND,"Beerman, Paris",3,,0
+60898,634.5,Appliances,cod,10/15/2020,48,F,OK,"Ganz, Hannah",1,silver,1
+60899,62.5,Men's Fashion,cod,10/15/2020,41,M,NY,"Batt, Keneth",1,standard,1
+55478,689,Men's Fashion,cod,10/23/2020,68,M,MO,"Hartin, Evan",8,silver,1
+60900,506.3,Men's Fashion,cod,10/16/2020,45,M,WV,"Jackman, Giuseppe",7,silver,1
+56864,7677.18,Mobiles & Tablets,cod,8/28/2021,61,M,NY,"Jordon, Ira",19,gold,0
+53407,0,Men's Fashion,cod,10/15/2020,67,M,NY,"Hitch, Antoine",1,standard,1
+60901,220,Mobiles & Tablets,cod,10/15/2020,49,F,NJ,"Costner, Stephania",1,bronze,1
+60902,1853,Entertainment,cod,10/18/2020,20,F,OR,"Charney, Tammy",3,silver,1
+18354,124.7,Men's Fashion,cod,10/15/2020,30,F,WI,"Marcucci, Elizabeth",4,standard,1
+60903,2225.3,Women's Fashion,cod,10/24/2020,65,M,OH,"Alejos, Marion",7,silver,1
+48199,153570.8,Mobiles & Tablets,cod,12/31/2020,39,M,MN,"Klar, Irving",199,platinum,0
+21125,1743.64,Home & Living,cod,12/27/2020,19,F,CT,"Saylors, Patti",23,silver,0
+59508,1785.4,Women's Fashion,cod,1/26/2021,54,F,OK,"Hardage, Randee",6,silver,0
+60904,160.5,Soghaat,easypay,10/15/2020,51,F,MA,"Hummel, Starla",3,bronze,1
+60905,0,Men's Fashion,cod,10/15/2020,74,F,VT,"Greear, Tamar",1,standard,1
+60906,100,Men's Fashion,cod,10/15/2020,25,M,TN,"Nusbaum, Shad",1,standard,1
+60907,0,Men's Fashion,cod,10/15/2020,70,F,TX,"Unruh, Glenna",1,standard,1
+60908,0,Men's Fashion,cod,10/15/2020,51,M,KS,"Clarke, Fredric",1,standard,1
+54147,3048.61,Men's Fashion,cod,10/31/2020,72,F,FL,"Lapan, Lavonia",24,gold,1
+31478,419.79,Men's Fashion,payaxis,10/15/2020,64,M,IA,"Giorgi, Ali",2,bronze,1
+60909,0,Men's Fashion,cod,10/15/2020,73,F,KY,"Reinhardt, Millicent",1,standard,1
+60910,72,Mobiles & Tablets,cod,10/15/2020,29,M,IN,"Bahena, Gregg",1,standard,1
+60911,206.3,Mobiles & Tablets,cod,10/15/2020,58,F,ME,"Cato, Charmaine",10,bronze,1
+20220,2937.08,Men's Fashion,easypay,12/28/2020,38,F,WV,"Mascarenas, Tesha",27,gold,0
+60912,195,Computing,cod,10/15/2020,33,F,UT,"Moylan, Pa",2,bronze,1
+60913,47.4,Home & Living,cod,10/15/2020,67,F,TN,"Chasteen, Sandie",2,standard,1
+60914,310.9,Appliances,cod,10/15/2020,72,M,CA,"Gomer, Richie",3,bronze,1
+56550,128.5,Beauty & Grooming,cod,12/28/2020,54,F,PA,"Roughton, Lurline",8,standard,0
+40479,447.9,Women's Fashion,cod,10/27/2020,30,F,OH,"Yedinak, Vina",7,bronze,1
+14266,,Mobiles & Tablets,bankalfalah,7/30/2021,67,F,TX,"Provenzano, Deeann",18,platinum,0
+60915,83.3,Mobiles & Tablets,,10/15/2020,43,M,IA,"Almanza, Francisco",1,standard,1
+60916,100,Women's Fashion,cod,10/15/2020,68,M,TN,"Whitesel, Lynwood",1,standard,1
+60917,10263.5,Women's Fashion,cod,4/30/2021,24,F,NC,"Crockett, Katelin",25,platinum,0
+7930,38919.57,Superstore,cod,6/30/2021,53,F,MO,"Anstett, Allegra",78,platinum,0
+19739,7154,Appliances,easypay,12/24/2020,38,F,TX,"Tingley, Tayna",8,gold,0
+60918,,Men's Fashion,cod,10/15/2020,18,M,TX,"Estabrook, Geoffrey",3,standard,1
+60919,797.8,Beauty & Grooming,cod,12/26/2020,55,M,AR,"Ditto, Jarod",4,silver,0
+7491,31.3,Men's Fashion,payaxis,10/15/2020,45,M,MN,"Fillion, Claude",1,standard,1
+60920,103.9,Beauty & Grooming,cod,10/15/2020,37,M,GA,"Mcconnell, Dion",2,standard,1
+8841,149.9,Men's Fashion,cod,10/15/2020,49,F,VT,"Oxley, Cassondra",1,bronze,1
+60921,0,Men's Fashion,cod,10/15/2020,33,F,TX,"Rexford, Angelic",2,standard,1
+60922,56,Beauty & Grooming,cod,10/15/2020,42,M,PA,"Girardi, Brian",1,standard,1
+22131,12157.7,Beauty & Grooming,easypay,10/15/2020,32,F,FL,"Clyne, Latasha",35,platinum,1
+60923,191.8,Women's Fashion,cod,10/19/2020,52,M,IN,"Durrah, Dee",2,bronze,1
+60924,175.5,Mobiles & Tablets,cod,10/15/2020,71,M,HI,"Pahl, Augustus",1,bronze,1
+60925,0,Men's Fashion,cod,10/15/2020,28,F,OK,"Greig, Buffy",1,standard,1
+30400,0,Men's Fashion,cod,10/15/2020,64,M,IL,"Rodger, Chet",1,standard,1
+2011,720,Beauty & Grooming,cod,10/19/2020,50,F,WI,"Richarson, Kittie",9,silver,1
+60926,254,Mobiles & Tablets,cod,10/24/2020,71,F,MI,"Makin, Hortense",3,bronze,1
+25475,66.5,Health & Sports,cod,10/15/2020,41,M,NY,"Pursel, Nigel",1,standard,1
+3815,10380.9,Soghaat,cod,10/29/2020,34,M,WV,"Mcclendon, Don",19,platinum,1
+60927,281.4,Home & Living,cod,10/22/2020,49,F,OK,"Scala, Tamela",2,bronze,1
+60928,5258.1,Beauty & Grooming,easypay,10/29/2020,19,F,CA,"Mcmillin, Milagros",6,gold,1
+60929,1830,Men's Fashion,cod,10/15/2020,48,M,TN,"Pautz, Jason",3,silver,1
+60930,1279.9,Mobiles & Tablets,easypay,10/15/2020,53,F,MN,"Holub, Norma",1,silver,1
+2594,147.8,Beauty & Grooming,cod,10/15/2020,53,F,MO,"Tipton, Tiffiny",2,bronze,1
+60931,18793.56,Beauty & Grooming,easypay,1/31/2021,67,M,CO,"Byers, Alfred",147,platinum,0
+60932,36,Beauty & Grooming,cod,10/15/2020,57,F,NY,"Sweet, Jennefer",2,standard,1
+54916,,Women's Fashion,cod,9/27/2021,71,F,VA,"Birkland, Neda",24,gold,0
+60933,159.9,Mobiles & Tablets,cod,10/15/2020,37,F,VT,"Ellefson, Jana",1,bronze,1
+46905,,Health & Sports,cod,10/15/2020,38,M,TX,"Evangelista, Ronny",1,standard,1
+57903,209.8,Men's Fashion,cod,10/23/2020,69,M,NE,"Godines, Jamaal",2,bronze,1
+60934,1000,Beauty & Grooming,cod,10/15/2020,32,M,GA,"Threadgill, Cordell",1,silver,1
+60935,89.8,Beauty & Grooming,cod,3/23/2021,55,F,VA,"Medders, Doretha",2,standard,0
+60936,771,Mobiles & Tablets,cod,8/22/2021,51,F,MI,"Tarbox, Frances",7,silver,0
+60937,110,Beauty & Grooming,cod,10/15/2020,49,F,AL,"Crivello, Michaele",1,standard,1
+10310,741.59,Beauty & Grooming,easypay,12/27/2020,57,F,KY,"Petrosky, Cornelia",15,silver,0
+60938,8346.41,Beauty & Grooming,payaxis,9/26/2021,53,M,CA,"Free, Casey",24,gold,0
+16982,238,Beauty & Grooming,cod,10/22/2020,71,F,GA,"Rodiguez, Aubrey",3,bronze,1
+15432,74,Home & Living,cod,10/16/2020,34,M,IL,"Richman, Percy",1,standard,1
+60939,149.9,Kids & Baby,,10/16/2020,26,M,NE,"Lipman, Gayle",1,bronze,1
+60940,17070,Mobiles & Tablets,payaxis,10/18/2020,68,M,OH,"Pemberton, Thanh",4,platinum,1
+60941,6280,Mobiles & Tablets,payaxis,10/16/2020,29,M,NC,"Alberts, Leonel",2,gold,1
+28896,45355.3,Mobiles & Tablets,easypay,11/24/2020,28,F,UT,"Friesen, Setsuko",45,platinum,0
+55172,340.95,Beauty & Grooming,,1/28/2021,43,F,MN,"Creswell, Rudy",4,bronze,0
+27456,555,Mobiles & Tablets,cod,10/16/2020,66,F,ID,"Barbour, Cythia",2,silver,1
+60942,378.6,Women's Fashion,cod,10/16/2020,34,F,NM,"Nicholls, Candelaria",1,bronze,1
+36626,228.5,Home & Living,cod,10/16/2020,74,M,PA,"Opitz, Ernest",5,bronze,1
+41989,350.25,Books,cod,12/27/2020,45,F,SD,"Worrall, Maren",8,bronze,0
+60943,1000,Beauty & Grooming,cod,10/16/2020,39,M,GA,"Groom, Erich",1,silver,1
+59878,309.9,Appliances,cod,10/25/2020,47,M,GA,"Howie, Orville",2,bronze,1
+60944,79.9,Mobiles & Tablets,cod,10/16/2020,63,F,MN,"Troxler, Janey",1,standard,1
+46992,314.7,Mobiles & Tablets,cod,11/20/2020,62,M,PA,"Trogdon, Byron",6,bronze,0
+39500,72,Women's Fashion,cod,10/16/2020,50,M,CA,"Shouse, Gregorio",2,,1
+59444,35.8,Women's Fashion,cod,10/16/2020,39,F,ND,"Meisner, Nobuko",2,standard,1
+60945,14329,Mobiles & Tablets,payaxis,10/26/2020,69,F,AZ,"Voelker, Dorothy",8,platinum,1
+50392,485.4,Men's Fashion,cod,10/16/2020,42,M,LA,"Ellett, Manual",6,bronze,1
+57523,16243.81,Appliances,cod,10/26/2020,51,M,TX,"Ettinger, Blake",55,platinum,1
+33190,1444.9,Men's Fashion,cod,10/16/2020,61,F,NE,"Cedillo, Tynisha",4,silver,1
+50634,582.8,Kids & Baby,cod,2/26/2021,44,F,DC,"Mefford, Jerry",4,silver,0
+60946,1760.3,Soghaat,cod,11/26/2020,72,M,AZ,"Hutchinson, Edward",15,silver,0
+60947,1813.09,Men's Fashion,cod,10/30/2020,36,F,NC,"Dimmick, Benita",21,silver,1
+60948,7899.8,Men's Fashion,cod,10/16/2020,39,F,MO,"Manrique, Maryrose",3,gold,1
+60949,449.7,Men's Fashion,cod,10/30/2020,31,M,SD,"Rolling, Danilo",4,bronze,1
+59454,4742,Women's Fashion,cod,10/24/2020,71,M,PA,"Oldfield, Antone",9,gold,1
+58000,809.5,Appliances,customercredit,10/16/2020,28,F,NY,"Getty, Juliann",1,silver,1
+5236,914.7,Men's Fashion,cod,5/27/2021,55,F,FL,"Krone, Patricia",19,silver,0
+56248,2117.4,Men's Fashion,cod,10/29/2020,25,M,CA,"Storch, Brendon",22,silver,1
+60029,35,Mobiles & Tablets,cod,10/16/2020,43,F,WV,"Wigfall, Lakeisha",1,standard,1
+21508,398.7,Women's Fashion,cod,6/22/2021,74,M,UT,"Pons, Korey",4,bronze,0
+54716,5708.1,Mobiles & Tablets,cod,10/23/2020,65,M,IA,"Mooring, Abe",7,gold,1
+9302,454,Superstore,jazzwallet,10/24/2020,57,F,FL,"Adcock, Sharen",3,bronze,1
+47124,17805.2,Entertainment,cod,4/29/2021,21,M,NJ,"Fulgham, Vicente",15,platinum,0
+60950,118.5,Home & Living,cod,10/16/2020,35,M,ID,"Boucher, Ray",2,standard,1
+57686,169.7,Women's Fashion,cod,10/16/2020,23,M,UT,"Bonanno, Everette",1,bronze,1
+51864,554.7,Men's Fashion,cod,10/16/2020,23,M,CA,"Espiritu, Darrel",5,silver,1
+60951,95,Women's Fashion,cod,10/16/2020,46,M,PA,"Donalson, Jarrod",1,standard,1
+47236,26410.01,Mobiles & Tablets,easypay,12/24/2020,18,F,CA,"Class, Tiny",25,platinum,0
+59597,159,Women's Fashion,cod,10/16/2020,19,F,MT,"Vickers, Chantel",1,bronze,1
+60952,380.3,Men's Fashion,cod,4/30/2021,21,M,CO,"Sirmans, Malik",4,bronze,0
+39715,,Entertainment,cod,10/19/2020,60,F,NY,"Crozier, Francie",2,bronze,1
+47,18548.33,Appliances,easypay,12/31/2020,33,M,PA,"Schock, Jessie",32,platinum,0
+60953,,Kids & Baby,cod,10/16/2020,72,M,NJ,"Klaus, Timmy",1,standard,1
+17995,23.9,Men's Fashion,payaxis,10/16/2020,35,F,TN,"Maughan, Linette",1,standard,1
+55990,270.5,Home & Living,cod,10/25/2020,64,F,FL,"Booth, Simona",5,bronze,1
+60954,6005,Men's Fashion,cod,10/29/2020,28,F,VT,"Crosby, Maryland",7,gold,1
+60955,527.5,Beauty & Grooming,cod,10/31/2020,32,M,KS,"Kowal, Lenard",13,silver,1
+60956,239.3,Men's Fashion,customercredit,10/28/2020,63,F,KY,"Riles, Ginger",7,bronze,1
+60957,6500,Mobiles & Tablets,payaxis,10/16/2020,34,F,PA,"May, Miesha",1,gold,1
+60958,1203.5,Soghaat,cod,10/25/2020,39,M,NM,"Lafferty, Gavin",13,silver,1
+60959,179.9,Beauty & Grooming,cod,10/16/2020,47,F,CA,"Lonon, Vena",1,bronze,1
+7991,,Men's Fashion,cod,10/16/2020,52,F,TX,"Shedd, Darcie",2,standard,1
+4260,4403.06,Appliances,cod,12/21/2020,45,M,NH,"Haakenson, Henry",7,gold,0
+42455,1583.7,Women's Fashion,cod,12/29/2020,73,F,IL,"Redfield, Jaime",8,silver,0
+60960,120,Home & Living,cod,10/16/2020,38,M,CA,"Banfield, Bo",1,standard,1
+58081,1329.3,Beauty & Grooming,cod,12/30/2020,32,M,NY,"Marra, Lesley",19,silver,0
+60961,326.7,Men's Fashion,customercredit,10/23/2020,21,F,NY,"Cates, Loise",4,bronze,1
+4102,4902.32,Mobiles & Tablets,cod,4/28/2021,66,F,NC,"Peasley, Lillie",39,gold,0
+36216,343.9,Mobiles & Tablets,cod,10/16/2020,66,M,IA,"Quattlebaum, Jefferey",3,bronze,1
+60962,804,Appliances,customercredit,10/30/2020,42,F,NY,"Silvey, Connie",7,silver,1
+60963,765.8,Health & Sports,cod,10/23/2020,52,F,NY,"Beaman, Kenneth",9,silver,1
+49330,102454.14,Mobiles & Tablets,cod,10/31/2020,71,F,MI,"Aubin, Zena",30,platinum,1
+21601,1391.8,Mobiles & Tablets,cod,10/16/2020,35,F,WV,"Browder, Olene",1,silver,1
+43262,1374.2,Mobiles & Tablets,cod,10/16/2020,31,F,LA,"Issa, Simonne",1,silver,1
+55914,62.5,Men's Fashion,cod,10/16/2020,60,F,WI,"Brafford, Milda",1,standard,1
+60964,17773.7,Mobiles & Tablets,payaxis,10/16/2020,74,M,FL,"Kirtley, Joseph",3,platinum,1
+57571,279.9,Women's Fashion,cod,10/16/2020,55,F,UT,"Langston, Sara",2,bronze,1
+60965,349.2,Appliances,cod,10/16/2020,45,M,DE,"Genovese, Harley",4,bronze,1
+60966,159,Women's Fashion,cod,10/16/2020,44,M,IL,"Philbrick, Ronnie",1,bronze,1
+60967,616,Mobiles & Tablets,cod,10/16/2020,18,M,OK,"Slover, Abram",2,,1
+60968,24.7,Health & Sports,cod,10/16/2020,27,M,MN,"Vaden, Leonel",1,standard,1
+60969,172.2,Mobiles & Tablets,cod,10/16/2020,57,M,NY,"Maldonado, Cliff",1,bronze,1
+60970,,Mobiles & Tablets,cod,10/16/2020,39,M,NE,"Bracco, Lawrence",1,standard,1
+60971,245,Women's Fashion,cod,10/16/2020,58,M,MO,"Bump, Isidro",1,bronze,1
+60972,81.1,Men's Fashion,cod,10/16/2020,74,F,NJ,"Younce, Yuette",1,standard,1
+54029,,Women's Fashion,cod,12/26/2020,27,F,TX,"Bassler, Bettyann",34,gold,0
+16031,1012.8,Men's Fashion,cod,10/16/2020,22,F,PA,"Doman, Pearline",13,silver,1
+60973,105,Men's Fashion,cod,10/16/2020,51,M,OK,"Carbone, Moises",1,standard,1
+60974,105,Men's Fashion,cod,10/17/2020,73,M,OK,"Bernard, Ken",1,standard,1
+35251,506.1,Women's Fashion,cod,1/26/2021,36,M,OK,"Wear, Paul",4,silver,0
+60975,512.8,Mobiles & Tablets,cod,10/23/2020,59,F,ID,"Sauers, Cindi",2,silver,1
+59076,59.9,Beauty & Grooming,cod,10/17/2020,40,M,ME,"Luebbert, Elliot",1,standard,1
+44619,359655.83,Entertainment,easypay,10/31/2020,75,F,FL,"Divito, Sherlyn",211,platinum,1
+30624,23089.1,Mobiles & Tablets,easypay,3/30/2021,56,M,WI,"Laflamme, Theodore",17,platinum,0
+35344,39.8,Mobiles & Tablets,cod,10/17/2020,51,M,NC,"Gadsden, Keneth",1,standard,1
+53041,266,Entertainment,cod,10/17/2020,63,M,FL,"Hirsch, Richard",1,bronze,1
+28,3971.3,Mobiles & Tablets,cod,12/31/2020,71,M,WA,"Drain, Reinaldo",11,gold,0
+35296,33.9,Men's Fashion,cod,10/17/2020,18,M,CA,"Fagin, Vernon",1,standard,1
+23729,161291.18,Mobiles & Tablets,payaxis,11/28/2020,58,M,NE,"Tuck, Basil",107,platinum,0
+60976,120,Women's Fashion,cod,10/17/2020,61,F,AL,"Hinkel, Tamekia",1,standard,1
+9801,3140,Mobiles & Tablets,payaxis,10/17/2020,59,F,NC,"Merrow, Lucinda",1,gold,1
+60977,10790,Mobiles & Tablets,easypay,10/17/2020,63,M,NC,"Weinberg, Walter",2,platinum,1
+43801,159.9,Mobiles & Tablets,cod,10/17/2020,50,F,TX,"Suggs, Deneen",1,bronze,1
+60978,150,Entertainment,cod,10/17/2020,37,F,MI,"Braun, Andria",1,bronze,1
+60979,120,Women's Fashion,cod,10/17/2020,67,F,MN,"Isaacson, Verdell",1,standard,1
+40796,594.24,Appliances,payaxis,12/21/2020,37,M,CO,"Josephson, Roosevelt",3,silver,0
+60980,85,Mobiles & Tablets,cod,10/17/2020,54,M,GA,"Hagemann, Josh",1,standard,1
+60981,275,Men's Fashion,payaxis,10/20/2020,68,M,NJ,"Bristow, Kraig",2,bronze,1
+60982,40724.14,Mobiles & Tablets,easypay,3/31/2021,62,M,CA,"Vollmer, Daryl",20,platinum,0
+10531,360,Health & Sports,cod,10/26/2020,59,F,MS,"Peeler, Deirdre",3,bronze,1
+46962,22.1,Mobiles & Tablets,easypay,10/17/2020,25,M,IN,"Fuhrman, Gustavo",3,standard,1
+60983,24360.81,Mobiles & Tablets,easypay,12/28/2020,28,F,FL,"Casias, Donya",14,platinum,0
+53231,1605.52,Men's Fashion,easypay,1/31/2021,45,F,FL,"Wile, Natisha",11,silver,0
+38529,1850.13,Appliances,easypay,10/30/2020,18,M,NY,"Harmer, Wesley",8,silver,1
+60984,8558.56,Mobiles & Tablets,payaxis,3/31/2021,72,F,OR,"Raney, Bess",7,gold,0
+60985,625,Women's Fashion,easypay,10/17/2020,20,F,OK,"Meas, Linette",1,silver,1
+60986,100,Health & Sports,cod,10/17/2020,69,M,PA,"Clausen, Gabriel",1,standard,1
+60987,456,Home & Living,cod,10/17/2020,73,F,CA,"Hazelton, Isaura",1,,1
+758,800.4,Women's Fashion,cod,12/24/2020,49,F,MI,"Fryman, Liberty",9,silver,0
+6615,10800.05,Women's Fashion,easypay,10/31/2020,47,F,VA,"Hupp, Britney",22,platinum,1
+60988,370,School & Education,cod,10/17/2020,43,F,KS,"Hiller, Arnita",4,bronze,1
+14625,150427.53,Women's Fashion,easypay,10/31/2020,44,F,NY,"Pitre, Shayla",207,platinum,1
+60989,,Appliances,cod,10/17/2020,29,M,WV,"Cabrales, Foster",1,gold,1
+57623,102,Women's Fashion,payaxis,10/17/2020,55,M,LA,"Strang, Ismael",1,standard,1
+60990,,Health & Sports,easypay,10/17/2020,56,F,AR,"Woodrum, Delisa",1,standard,1
+282,41030.16,Mobiles & Tablets,easypay,11/29/2020,57,M,TN,"Mcavoy, Mohamed",42,platinum,0
+60991,2842.2,Men's Fashion,easypay,12/27/2020,54,F,AL,"Rousseau, Tayna",10,gold,0
+58456,23262.72,Mobiles & Tablets,easypay,3/27/2021,60,F,VT,"Swindell, Myrle",20,platinum,0
+60992,3088.7,Mobiles & Tablets,cod,10/17/2020,37,F,NJ,"Dame, Jeneva",1,gold,1
+60993,293.3,Appliances,customercredit,10/17/2020,20,F,KS,"Gorden, Kayleigh",2,bronze,1
+57432,111.5,Mobiles & Tablets,cod,10/17/2020,27,M,CA,"Benny, Dana",1,standard,1
+53741,768.6,Men's Fashion,cod,10/24/2020,70,M,TX,"Olivas, Bob",3,silver,1
+48119,23539.19,Mobiles & Tablets,payaxis,10/25/2020,24,F,PA,"Whitton, Sylvia",21,platinum,1
+52107,420,Women's Fashion,cod,10/17/2020,42,F,NY,"Rodriquez, Celia",2,bronze,1
+8831,33744.64,Entertainment,easypay,10/31/2020,26,M,TX,"Sykora, Fletcher",47,platinum,1
+42954,52034.79,Entertainment,jazzwallet,3/31/2021,30,F,KY,"Yardley, Robbyn",31,platinum,0
+60994,421.9,Women's Fashion,cod,10/23/2020,45,M,FL,"Pool, Marvin",3,bronze,1
+25171,47871.62,Entertainment,jazzwallet,11/28/2020,31,F,MI,"Stops, Macy",31,platinum,0
+60995,496.1,Beauty & Grooming,customercredit,10/23/2020,69,M,CA,"Truelove, Solomon",5,silver,1
+60996,120,Men's Fashion,cod,10/17/2020,41,F,NM,"Steib, Iva",1,,1
+60997,670,Home & Living,customercredit,10/22/2020,38,F,IN,"Shimp, Lanelle",2,silver,1
+42955,42966.76,Entertainment,jazzwallet,3/31/2021,35,F,CA,"Heyer, Deloris",28,platinum,0
+60998,4012.8,Mobiles & Tablets,payaxis,10/31/2020,41,F,CA,"Garnica, Luise",8,gold,1
+60999,130,Beauty & Grooming,cod,10/17/2020,23,M,NY,"Pinkham, Micheal",1,standard,1
+61000,3393.6,Beauty & Grooming,cod,11/30/2020,41,M,NC,"Alley, Dan",10,gold,0
+15066,52755.25,Appliances,cod,7/30/2021,52,F,FL,"Pipkin, Marianela",176,platinum,0
+34142,8921.6,Beauty & Grooming,cod,10/30/2020,67,M,MA,"Boggess, Leo",22,gold,1
+61001,424.8,Beauty & Grooming,cod,10/17/2020,21,F,WV,"Christy, Stephani",4,bronze,1
+8872,176,Mobiles & Tablets,,10/17/2020,48,M,WA,"Slate, Bryan",1,bronze,1
+31332,158,Women's Fashion,cod,10/17/2020,64,M,IA,"Hardrick, Clay",2,bronze,1
+44830,25101.67,Superstore,payaxis,1/31/2021,45,M,OH,"Hohn, Saul",329,platinum,0
+61002,109.9,Kids & Baby,cod,10/17/2020,53,F,KS,"Perales, Lorelei",2,standard,1
+2131,772.9,Men's Fashion,cod,12/20/2020,34,F,OH,"Witt, Lourdes",5,,0
+42408,279.6,Home & Living,cod,10/17/2020,58,M,TX,"Wynter, Jamaal",2,bronze,1
+58381,,Mobiles & Tablets,easypay,10/31/2020,73,F,MT,"Bianco, Jan",59,platinum,1
+61003,165,Mobiles & Tablets,cod,10/17/2020,55,F,KS,"Koga, Trina",1,bronze,1
+49744,201.8,Mobiles & Tablets,cod,10/17/2020,61,M,MI,"Talbot, Phillip",3,bronze,1
+61004,0,Appliances,payaxis,10/17/2020,41,M,IA,"Cataldo, Edmund",1,standard,1
+57231,240,Women's Fashion,cod,10/17/2020,75,M,MD,"Urban, Rick",2,bronze,1
+61005,308,Mobiles & Tablets,cod,10/17/2020,49,M,CA,"Nealy, Nathanial",1,bronze,1
+54657,11279.27,Mobiles & Tablets,easypay,3/31/2021,38,F,AR,"Hannon, Ailene",33,platinum,0
+43699,480,Women's Fashion,cod,10/18/2020,70,M,SC,"Zastrow, Wiley",2,bronze,1
+61006,100,Women's Fashion,cod,10/17/2020,48,M,NY,"Ledger, Deshawn",1,standard,1
+56519,59864.38,Women's Fashion,apg,10/31/2020,31,M,WI,"Brinker, Thaddeus",85,platinum,1
+33978,912,Beauty & Grooming,cod,3/27/2021,67,F,MA,"Lacasse, Fredricka",14,silver,0
+18715,574.4,Appliances,cod,12/26/2020,22,F,AZ,"Mauzy, Janiece",4,silver,0
+55985,4665.47,Computing,easypay,8/29/2021,44,F,OK,"Block, Yaeko",14,gold,0
+61007,1078.4,Health & Sports,customercredit,10/28/2020,19,M,KS,"Bondy, Lauren",9,silver,1
+61008,85,Mobiles & Tablets,cod,10/17/2020,24,F,NC,"Dehn, Charmaine",1,standard,1
+61009,60958.01,Mobiles & Tablets,easypay,10/30/2020,75,F,MN,"Midgette, Keturah",63,platinum,1
+61010,3258.6,Women's Fashion,jazzwallet,2/27/2021,52,F,AZ,"Semple, Jimmy",20,gold,0
+51249,8637.5,Superstore,jazzwallet,12/27/2020,23,M,IL,"Rizzo, Noe",9,gold,0
+41511,32313.47,Mobiles & Tablets,easypay,10/24/2020,72,M,DC,"Guinan, Eduardo",21,platinum,1
+61011,164,Men's Fashion,cod,10/19/2020,30,M,MS,"Shurtleff, Sterling",2,bronze,1
+61012,153,Health & Sports,cod,10/17/2020,40,M,GA,"Mraz, Barney",1,bronze,1
+61013,1051.62,Mobiles & Tablets,,10/17/2020,19,M,KS,"Credle, Roy",1,silver,1
+61014,400,Women's Fashion,easypay,10/19/2020,68,M,CA,"Jamerson, Jonas",4,bronze,1
+61015,28525.99,Mobiles & Tablets,payaxis,10/30/2020,40,M,GA,"Boyter, Esteban",31,platinum,1
+29771,16205.6,Entertainment,cod,12/27/2020,40,M,GA,"Elsner, Monroe",13,platinum,0
+61016,33,Mobiles & Tablets,cod,10/17/2020,29,F,NE,"Kinzer, Vallie",1,standard,1
+51171,656.12,Women's Fashion,cod,12/20/2020,21,M,NC,"Ehrlich, Ferdinand",6,silver,0
+58393,44346.35,Entertainment,easypay,10/31/2020,40,M,UT,"Hansley, Darius",43,,1
+61017,1140.1,Mobiles & Tablets,payaxis,10/17/2020,56,M,ID,"Hoggard, Everette",1,silver,1
+4112,53507.12,Mobiles & Tablets,easypay,10/31/2020,71,F,AL,"Killough, Daniel",46,platinum,1
+61018,50,Health & Sports,cod,10/17/2020,52,M,IA,"Utt, Eddie",1,standard,1
+52720,44802.95,Mobiles & Tablets,easypay,12/29/2020,28,M,PA,"Knutson, Jay",43,platinum,0
+58405,32207.53,Mobiles & Tablets,easypay,3/24/2021,64,M,MD,"Bowling, Morton",32,platinum,0
+50142,2933,Beauty & Grooming,cod,10/17/2020,67,M,NE,"Efird, Sanford",6,gold,1
+2661,8086.83,Women's Fashion,cod,10/26/2020,44,F,KY,"Dumas, Tamara",35,gold,1
+53257,30428.44,Mobiles & Tablets,easypay,12/28/2020,70,M,PA,"Jester, Josue",19,platinum,0
+19260,51,Health & Sports,cod,10/17/2020,67,F,MD,"Mcalexander, Naomi",1,standard,1
+61019,626,Women's Fashion,cod,2/25/2021,30,F,MD,"Banda, Holli",3,silver,0
+15516,7244.3,Mobiles & Tablets,easypay,12/27/2020,48,F,CA,"Cruz, Laquita",5,gold,0
+47942,359.9,Appliances,cod,10/23/2020,26,M,TX,"Guffey, Lenard",3,bronze,1
+61020,,Beauty & Grooming,customercredit,10/23/2020,25,M,CO,"Batt, Salvatore",4,silver,1
+47205,43215.89,Mobiles & Tablets,payaxis,10/31/2020,71,M,NY,"Preas, Emilio",38,platinum,1
+51085,,Mobiles & Tablets,,10/17/2020,52,M,CT,"Mccord, Heath",5,gold,1
+61021,490,Beauty & Grooming,easypay,10/17/2020,63,F,WA,"Tyre, Lily",1,bronze,1
+45925,70,Appliances,,10/17/2020,68,M,OK,"Lesperance, Linwood",1,standard,1
+61022,980,Beauty & Grooming,cod,10/18/2020,52,M,NY,"Antonelli, Aubrey",2,silver,1
+44040,773.74,Mobiles & Tablets,payaxis,10/29/2020,52,M,MO,"Pellegrini, Weston",15,silver,1
+61023,141,Beauty & Grooming,cod,10/17/2020,59,F,NY,"Guido, Debbi",3,bronze,1
+34191,99.9,Health & Sports,cod,10/17/2020,58,F,AR,"Kennedy, Lyda",1,standard,1
+9193,13819.27,Home & Living,payaxis,3/27/2021,19,F,MD,"Dunkley, Annie",45,platinum,0
+7808,47494.91,Women's Fashion,easypay,4/30/2021,47,F,AZ,"Hurtt, Luis",27,platinum,0
+61024,764.15,Entertainment,payaxis,10/17/2020,29,M,WV,"Harlow, Millard",1,silver,1
+61025,115,Men's Fashion,cod,10/17/2020,27,F,VA,"Lakin, Faviola",2,standard,1
+61026,614.7,Women's Fashion,cod,10/17/2020,41,M,FL,"Mccarroll, Willard",4,silver,1
+12641,299,Mobiles & Tablets,cod,10/17/2020,57,F,KS,"Gowdy, Merri",1,bronze,1
+16963,3407,Entertainment,easypay,10/31/2020,61,M,MD,"Norris, Hipolito",3,gold,1
+56547,77771.06,Entertainment,,10/31/2020,32,F,AK,"Tincher, Keri",57,platinum,1
+51710,14371.09,Superstore,easypay,12/29/2020,73,F,NV,"Caffee, Debbie",51,platinum,0
+40198,2350.88,Men's Fashion,easypay,11/28/2020,31,M,NY,"Worrall, Milo",26,silver,0
+7957,15395.02,Appliances,payaxis,10/28/2020,49,M,MO,"Doolan, Mariano",16,platinum,1
+58282,63830.23,Entertainment,payaxis,10/31/2020,63,F,WA,"Eng, Latesha",51,platinum,1
+61027,153.62,Appliances,easypay,12/27/2020,67,F,NC,"Coble, Arletha",3,bronze,0
+61028,637.5,Mobiles & Tablets,easypay,10/17/2020,18,M,TX,"Dudek, Antione",1,silver,1
+61029,490,Beauty & Grooming,cod,10/17/2020,40,F,CA,"Corl, Ernestine",1,bronze,1
+61030,1320,Beauty & Grooming,customercredit,10/25/2020,18,F,MD,"Barga, Dallas",21,silver,1
+49877,14686.86,Appliances,jazzwallet,12/27/2020,73,F,KS,"Deeter, Dovie",95,platinum,0
+58788,27821.02,Mobiles & Tablets,easypay,10/31/2020,27,M,PA,"Miltenberger, Pasquale",18,platinum,1
+58832,1875,Mobiles & Tablets,payaxis,10/17/2020,22,M,GA,"Whisnant, Werner",3,silver,1
+41707,1597.9,Women's Fashion,cod,12/27/2020,21,M,CA,"Josey, Darrick",3,,0
+55991,219.9,Men's Fashion,cod,10/25/2020,33,F,AR,"Carollo, Erna",2,bronze,1
+25181,61.1,Mobiles & Tablets,cod,10/17/2020,23,M,CA,"Meiners, Burl",2,standard,1
+61031,490,Beauty & Grooming,cod,10/17/2020,62,F,VA,"Melendez, Laura",1,bronze,1
+45892,11352.33,Appliances,easypay,10/17/2020,65,M,MD,"Kerby, Norris",8,platinum,1
+61032,153,Mobiles & Tablets,cod,10/17/2020,65,F,WI,"Brickner, Magan",1,bronze,1
+61033,115,School & Education,cod,10/17/2020,49,M,TX,"Alleyne, Mary",2,standard,1
+45962,40961.51,Entertainment,easypay,10/17/2020,43,F,NY,"Gibby, Yulanda",16,platinum,1
+17684,25482.79,Superstore,cod,12/29/2020,54,F,WI,"Brodersen, Sharon",106,platinum,0
+61034,139.9,Mobiles & Tablets,cod,10/17/2020,47,M,CA,"Slaven, Teddy",2,standard,1
+47334,1675,Entertainment,easypay,10/17/2020,25,M,IN,"Wittrock, Carmelo",1,silver,1
+61035,490,Beauty & Grooming,cod,10/18/2020,59,F,LA,"Kates, Lesia",1,bronze,1
+48282,154,Entertainment,cod,10/18/2020,57,F,KY,"Baney, Roxie",1,bronze,1
+19291,2523.78,Appliances,easypay,12/26/2020,31,F,TN,"Burleson, Xenia",18,silver,0
+61036,227.2,Mobiles & Tablets,,10/20/2020,71,F,NY,"Lomeli, Kaleigh",2,bronze,1
+30696,30065.3,Mobiles & Tablets,payaxis,3/24/2021,37,M,ID,"Kelly, Oscar",13,platinum,0
+61037,636,Women's Fashion,cod,10/18/2020,23,M,MO,"Thao, Frances",1,silver,1
+27522,358.9,Books,cod,10/30/2020,33,M,IL,"Haber, Oscar",11,bronze,1
+61038,453575.3,Mobiles & Tablets,payaxis,5/30/2021,70,M,KY,"Brazeal, Cornelius",47,platinum,0
+61039,111332.7,Mobiles & Tablets,payaxis,10/19/2020,28,M,DC,"Futral, Lou",12,platinum,1
+48394,1462.78,Women's Fashion,customercredit,12/30/2020,33,M,OH,"Fuhr, Abraham",6,silver,0
+48747,125,Beauty & Grooming,cod,10/18/2020,33,M,AR,"Bridges, Royal",1,standard,1
+27689,4927.69,Beauty & Grooming,cod,12/29/2020,61,F,AL,"Haner, Shae",100,,0
+2848,540.2,Computing,cod,10/18/2020,52,M,WI,"Stroman, Sebastian",4,silver,1
+7720,352.5,Men's Fashion,cod,10/18/2020,47,F,KS,"Turnbow, Allegra",2,bronze,1
+61040,106.5,Men's Fashion,cod,10/18/2020,59,M,NY,"Westlund, Dave",1,standard,1
+61041,53.5,Superstore,cod,10/18/2020,18,F,MS,"Nace, Rona",1,standard,1
+61042,123.9,Appliances,easypay,10/22/2020,30,M,AL,"Tompson, Todd",2,standard,1
+55942,965.1,Men's Fashion,cod,4/26/2021,26,F,NV,"Ulm, Madeleine",13,silver,0
+61043,618.6,Mobiles & Tablets,cod,10/18/2020,69,F,MO,"Aponte, Nyla",1,silver,1
+61044,3088.7,Mobiles & Tablets,cod,10/18/2020,52,M,TX,"Simpkins, Williams",1,gold,1
+44586,1377.8,Beauty & Grooming,cod,10/28/2020,39,M,AZ,"Bounds, Sam",4,silver,1
+14051,189,Mobiles & Tablets,easypay,5/29/2021,24,M,MN,"Winter, Elton",4,bronze,0
+61045,75.5,Mobiles & Tablets,cod,10/18/2020,26,M,OR,"Vansant, Tim",1,standard,1
+61046,3285,Mobiles & Tablets,cod,10/18/2020,49,M,WA,"Mcpeters, Stacy",1,gold,1
+58911,172,Mobiles & Tablets,cod,10/18/2020,36,M,TX,"Sturgill, Al",1,bronze,1
+41888,333.9,Mobiles & Tablets,cod,10/19/2020,75,M,TN,"Fullen, Dusty",2,bronze,1
+61047,59.4,Computing,cod,10/18/2020,64,F,SD,"Mcdermott, Bobette",1,standard,1
+58955,1279.9,Beauty & Grooming,customercredit,8/26/2021,36,M,SD,"Kiesel, Dante",3,silver,0
+22849,11318.9,Health & Sports,easypay,12/29/2020,20,M,AK,"Phelan, Jamie",30,platinum,0
+42821,71510.28,Mobiles & Tablets,cod,6/30/2021,73,M,AK,"List, Cody",103,platinum,0
+61048,86.4,Men's Fashion,,10/18/2020,70,F,CA,"Kepley, Joannie",3,standard,1
+2196,165,Appliances,customercredit,10/18/2020,50,M,TX,"Cowherd, Olin",2,bronze,1
+14856,256.1,Mobiles & Tablets,easypay,5/31/2021,38,F,GA,"Sanroman, Monet",2,bronze,0
+47027,2256.1,Appliances,cod,10/18/2020,40,F,CO,"Prahl, Milly",5,silver,1
+61049,161.5,Health & Sports,cod,10/18/2020,31,M,OH,"Nowacki, Alejandro",2,,1
+42115,,Men's Fashion,cod,12/30/2020,61,M,CA,"Benfer, Luciano",51,gold,0
+61050,2100,Mobiles & Tablets,cod,10/18/2020,40,M,MO,"Garth, Emory",1,silver,1
+61051,417.6,Men's Fashion,cod,10/30/2020,36,F,MO,"Darr, Curtis",4,bronze,1
+61052,7650,Mobiles & Tablets,cod,10/18/2020,18,F,WI,"Cheng, Karyn",1,gold,1
+61053,260,Men's Fashion,cod,10/18/2020,58,F,PA,"Stalcup, Delores",4,bronze,1
+61054,185,Men's Fashion,cod,10/18/2020,69,F,MA,"Rounds, Maureen",3,bronze,1
+41231,1348.05,Men's Fashion,cod,10/29/2020,67,F,CA,"Penner, Noma",38,silver,1
+20080,491.07,Men's Fashion,cod,12/19/2020,48,M,AR,"Flakes, Keith",14,,0
+61055,338.4,Soghaat,cod,10/18/2020,24,F,ID,"Glatt, Katy",6,bronze,1
+7888,1036.68,Men's Fashion,cod,9/22/2021,46,M,MA,"Kelm, Jamison",15,silver,0
+61056,125,Men's Fashion,cod,10/18/2020,33,F,AZ,"Carmen, Katharina",2,standard,1
+61057,118.4,Home & Living,cod,10/18/2020,67,F,SD,"Villalon, Bobbi",3,standard,1
+61058,190,Men's Fashion,cod,10/18/2020,40,F,CA,"Romo, Leandra",2,bronze,1
+61059,103.4,Men's Fashion,cod,10/18/2020,75,M,GA,"Armand, Merle",3,standard,1
+2021,626,Superstore,easypay,10/19/2020,56,M,NM,"Holding, Danial",6,silver,1
+30394,,Men's Fashion,cod,12/30/2020,69,F,OR,"Dundas, Maria",15,silver,0
+61060,,Beauty & Grooming,cod,10/18/2020,24,F,MS,"Lauer, Elvera",1,bronze,1
+61061,320,Men's Fashion,,10/21/2020,44,F,MO,"Sills, Nada",4,bronze,1
+4557,15878.78,Mobiles & Tablets,cod,12/31/2020,66,F,AR,"Jessee, Zaida",31,platinum,0
+61062,380,Women's Fashion,cod,10/18/2020,29,M,MI,"Ngo, Forest",2,bronze,1
+6140,32949.6,Mobiles & Tablets,customercredit,10/18/2020,26,F,MI,"Mower, Debi",4,platinum,1
+61063,1226.9,Appliances,cod,12/20/2020,27,F,MI,"Bradfield, Trudie",2,silver,0
+61064,3340,Mobiles & Tablets,easypay,10/18/2020,51,M,NV,"Clinger, Keith",2,gold,1
+51169,1919.2,Kids & Baby,cod,10/18/2020,65,F,TX,"Eatman, Carlotta",1,silver,1
+61065,177,Beauty & Grooming,cod,10/18/2020,42,M,TN,"Harada, Vincenzo",3,bronze,1
+45344,,Mobiles & Tablets,payaxis,11/21/2020,61,M,PA,"Lawhorn, Neil",34,platinum,0
+61066,59.9,Mobiles & Tablets,cod,10/18/2020,40,M,PA,"Avera, Cristopher",1,standard,1
+59979,6315.1,Appliances,cod,10/25/2020,31,F,NM,"Whisman, Rea",7,gold,1
+34834,0,Appliances,easypay,12/28/2020,50,M,IN,"Barnes, Damon",2,standard,0
+9270,859.7,Superstore,cod,12/31/2020,34,F,TN,"Urbina, Carman",7,silver,0
+9267,23.1,Mobiles & Tablets,jazzwallet,10/18/2020,33,M,CO,"Bondurant, Thanh",1,standard,1
+61067,464.2,Men's Fashion,cod,11/26/2020,23,M,NY,"Schiffman, Lyndon",3,bronze,0
+61068,100,Men's Fashion,cod,10/18/2020,41,M,AL,"Espana, Pasquale",2,,1
+61069,0,Appliances,cod,10/18/2020,28,F,NY,"Grainger, Selena",1,standard,1
+61070,107,Men's Fashion,cod,10/18/2020,39,M,MI,"Kelling, Dusty",2,standard,1
+61071,574,Men's Fashion,cod,12/18/2020,26,M,NJ,"Cornish, Moshe",8,silver,0
+4523,257.9,Kids & Baby,customercredit,10/29/2020,51,M,KS,"Zenon, Pablo",3,bronze,1
+61072,0,Appliances,cod,10/18/2020,54,M,CT,"Southwick, Arnulfo",3,standard,1
+114,92545.09,Mobiles & Tablets,easypay,1/31/2021,51,F,NC,"Grado, Hattie",106,platinum,0
+61073,180,Women's Fashion,cod,10/18/2020,65,M,AL,"Mattos, Herschel",1,bronze,1
+61074,0,Appliances,cod,10/18/2020,36,F,KY,"Gouge, Norman",11,standard,1
+7653,7997.29,Beauty & Grooming,easypay,12/27/2020,24,M,UT,"Hickman, Rory",65,gold,0
+61075,0,Appliances,cod,10/18/2020,73,M,MN,"Barlowe, Casey",1,standard,1
+252,5044.9,Appliances,cod,12/25/2020,75,M,OR,"Funkhouser, Shaun",3,gold,0
+54375,250,Appliances,easypay,4/30/2021,20,M,KY,"Leeman, Sid",2,bronze,0
+8584,,Appliances,cod,10/18/2020,18,F,CA,"Hagerty, Mamie",3,standard,1
+61076,3172.8,Kids & Baby,easypay,10/18/2020,26,F,IN,"Hackman, Johnnie",25,gold,1
+41525,0,Appliances,cod,10/18/2020,68,F,CT,"Malcolm, Gay",3,standard,1
+1477,6253.15,Mobiles & Tablets,cod,12/29/2020,65,M,AZ,"Bullard, Ellsworth",31,gold,0
+10994,720.4,Women's Fashion,,11/27/2020,37,M,ME,"Clair, Kenny",10,silver,0
+61077,0,Appliances,jazzwallet,10/18/2020,29,F,WA,"Larocca, Brigitte",1,standard,1
+2023,,Women's Fashion,payaxis,5/25/2021,69,M,WA,"Westerman, Ron",23,platinum,0
+8743,347.71,Men's Fashion,cod,12/22/2020,21,F,FL,"Letcher, Nadene",4,bronze,0
+61078,499.1,Men's Fashion,cod,10/19/2020,57,M,VT,"Clerk, Kendrick",8,silver,1
+61079,130,Men's Fashion,cod,10/30/2020,52,F,NJ,"Laforest, Julie",6,standard,1
+61080,0,Appliances,jazzwallet,10/18/2020,54,M,TN,"Milazzo, Raleigh",1,standard,1
+46288,6314.9,Appliances,customercredit,4/27/2021,21,F,SD,"Ang, Lynsey",4,gold,0
+423,12788.64,Appliances,cod,3/26/2021,60,M,OH,"Schrum, Nolan",8,platinum,0
+61081,0,Appliances,cod,10/18/2020,39,M,ME,"Barrientes, Jack",1,standard,1
+61082,269.6,Appliances,cod,10/22/2020,68,F,AR,"Jobe, Dorie",8,bronze,1
+514,3439.8,Home & Living,cod,12/25/2020,70,M,NY,"Rockey, Clement",40,gold,0
+26386,169.7,Beauty & Grooming,cod,10/22/2020,40,F,KS,"Niven, Evangeline",2,bronze,1
+61083,1610,Appliances,cod,10/18/2020,41,F,WV,"Newsome, Elfriede",5,silver,1
+61084,0,Appliances,cod,10/18/2020,41,F,TX,"Harting, Misti",1,standard,1
+14491,1224.7,Men's Fashion,cod,11/28/2020,51,F,SC,"Hertzog, Kiley",16,silver,0
+1730,18704.68,Appliances,cod,1/29/2021,37,M,PA,"Cieslak, Bradley",41,platinum,0
+61085,0,Appliances,cod,10/18/2020,63,F,TX,"Chupp, Asha",1,standard,1
+61086,1418.8,Mobiles & Tablets,easypay,10/18/2020,27,F,PA,"Bollman, Spring",3,silver,1
+61087,0,Appliances,cod,10/18/2020,45,F,CT,"Collier, Lashay",2,standard,1
+61088,0,Appliances,cod,10/18/2020,19,F,CA,"Boomer, Mahalia",2,standard,1
+22802,400.56,Others,cod,10/31/2020,35,F,CO,"Granier, Contessa",25,bronze,1
+61089,11953.1,Men's Fashion,payaxis,10/22/2020,45,F,CA,"Cort, Jodi",8,platinum,1
+61090,2100,Appliances,cod,10/18/2020,20,M,PA,"Andre, Earle",2,silver,1
+61091,13415.4,Mobiles & Tablets,easypay,10/25/2020,47,M,MO,"Castaneda, Jan",6,platinum,1
+901,14023.9,Men's Fashion,bankalfalah,12/31/2020,64,F,KY,"Brockman, Elenor",35,platinum,0
+49867,340.4,Home & Living,cod,11/26/2020,34,M,PA,"Hintze, Thaddeus",8,bronze,0
+5760,150,Kids & Baby,easypay,10/18/2020,49,F,ID,"Grant, Petrina",1,bronze,1
+12656,109.8,Men's Fashion,cod,10/18/2020,73,M,CO,"Conlon, Jackson",3,standard,1
+61092,240,Women's Fashion,cod,10/18/2020,20,F,GA,"Shuttleworth, Kristel",1,bronze,1
+5207,2841.8,Mobiles & Tablets,jazzwallet,10/18/2020,29,F,VA,"Shealey, Rebeca",2,gold,1
+61093,2641.55,Beauty & Grooming,cod,12/26/2020,54,M,PA,"Meister, Marcelo",15,gold,0
+43533,200.51,Mobiles & Tablets,cod,12/27/2020,63,F,TX,"Bobo, Alyse",9,bronze,0
+10100,477.32,Men's Fashion,payaxis,10/18/2020,70,F,TX,"Delvalle, Latesha",5,bronze,1
+61094,260,Beauty & Grooming,cod,10/18/2020,48,M,WY,"Motta, Herman",6,bronze,1
+685,10727.98,Beauty & Grooming,cod,8/29/2021,23,M,GA,"Torrez, Korey",39,platinum,0
+21896,869.3,Men's Fashion,cod,12/27/2020,21,M,CT,"Yoshioka, Max",7,silver,0
+54767,135,Women's Fashion,cod,10/18/2020,60,F,TX,"Schroyer, Launa",1,standard,1
+9011,316.3,Men's Fashion,cod,12/21/2020,33,F,TX,"Fleenor, Joanie",6,bronze,0
+27928,130,Women's Fashion,cod,10/18/2020,45,M,NY,"Purdom, Wilton",1,standard,1
+61095,157.3,Mobiles & Tablets,cod,10/18/2020,27,M,WI,"Autrey, Erich",1,bronze,1
+61096,177,Beauty & Grooming,cod,10/18/2020,74,M,CA,"Booe, Emil",1,bronze,1
+38561,7647.76,Superstore,cod,7/28/2021,46,M,NY,"Poore, Colin",32,gold,0
+61097,2386.6,Mobiles & Tablets,cod,10/18/2020,25,M,OH,"Ma, Augustine",1,silver,1
+61098,980,Beauty & Grooming,cod,10/19/2020,69,F,KS,"Danaher, Ida",2,silver,1
+61099,704,Mobiles & Tablets,easypay,4/28/2021,35,M,MN,"Brann, Mark",2,silver,0
+3473,224.8,Men's Fashion,cod,10/18/2020,26,M,TX,"Solano, Bryon",2,bronze,1
+61100,891.8,Mobiles & Tablets,,10/18/2020,61,F,LA,"Ballenger, Shanice",1,silver,1
+14588,1327.48,Home & Living,cod,10/30/2020,41,M,NV,"Karas, Zachariah",12,silver,1
+47422,3222.23,Women's Fashion,payaxis,1/24/2021,71,F,LA,"Kropp, Melaine",14,gold,0
+61101,69.5,Books,cod,10/18/2020,39,M,NC,"Segundo, Jeffery",1,standard,1
+30734,25,Men's Fashion,cod,10/19/2020,40,M,MI,"Hartwig, Noah",1,standard,1
+61102,,Mobiles & Tablets,easypay,10/19/2020,20,F,LA,"Phillip, Frida",2,gold,1
+61103,7452.23,Women's Fashion,,11/29/2020,65,F,WV,"Renfro, Vernia",38,gold,0
+61104,,Soghaat,cod,10/19/2020,41,F,NJ,"Friar, Corie",2,standard,1
+55086,78.8,Men's Fashion,cod,10/19/2020,66,F,CO,"Mcelligott, Luci",2,standard,1
+61105,35,Men's Fashion,,10/19/2020,57,M,PA,"Bowling, Aldo",1,standard,1
+61106,135,Women's Fashion,,10/19/2020,38,F,WV,"Benningfield, Patti",1,standard,1
+61107,,Women's Fashion,cod,10/19/2020,41,F,WA,"Wike, Chandra",3,silver,1
+61108,253.5,School & Education,cod,10/19/2020,74,M,KY,"Oakes, Amos",1,bronze,1
+61109,275,Women's Fashion,cod,10/19/2020,35,M,MO,"Gulbranson, Wilson",1,bronze,1
+61110,490,Beauty & Grooming,easypay,10/19/2020,46,F,NM,"Cape, Ping",1,bronze,1
+61111,622.1,Home & Living,cod,1/30/2021,57,F,IN,"Hanley, Ka",8,silver,0
+1279,517,Men's Fashion,cod,10/19/2020,74,F,CT,"Metcalf, Mendy",11,silver,1
+48775,2107,Men's Fashion,cod,10/23/2020,39,M,NC,"Dalrymple, Frankie",14,silver,1
+51221,1914.5,Women's Fashion,easypay,1/26/2021,40,M,IA,"Molter, Cory",11,silver,0
+34929,261.72,Appliances,easypay,12/24/2020,39,M,LA,"Bourg, Lon",4,bronze,0
+3449,1492.9,Men's Fashion,cod,10/19/2020,34,M,MO,"Haring, Rolando",3,silver,1
+61112,118.5,Home & Living,cod,10/19/2020,37,M,WI,"Jelinek, Cristopher",2,standard,1
+61113,1058.4,Women's Fashion,cod,10/19/2020,39,M,ND,"Tipler, Rodney",6,silver,1
+1061,8099.7,Mobiles & Tablets,easypay,10/24/2020,57,F,LA,"Cioffi, Dori",13,gold,1
+50728,115,Men's Fashion,cod,10/19/2020,74,F,IL,"Hammers, Angla",2,standard,1
+61114,2300.7,Men's Fashion,cod,10/19/2020,65,M,MI,"Bisbee, Bennie",5,silver,1
+3166,352.3,Kids & Baby,cod,10/19/2020,40,F,AL,"Fluellen, Avelina",3,bronze,1
+61115,392,Soghaat,easypay,11/24/2020,44,M,IL,"League, Jonah",5,bronze,0
+56339,232.7,Beauty & Grooming,cod,10/19/2020,50,M,VA,"Faulks, Will",7,bronze,1
+61116,9701.8,Kids & Baby,cod,10/31/2020,31,F,OH,"Mccarthy, Brittni",26,gold,1
+56423,391.5,Men's Fashion,cod,10/25/2020,65,M,OK,"Giese, Judson",7,bronze,1
+15905,731.7,Mobiles & Tablets,cod,10/30/2020,39,M,VA,"Munden, Amos",15,silver,1
+61117,1296.7,Mobiles & Tablets,cod,10/28/2020,42,M,ME,"Nunez, Erick",4,silver,1
+61118,1950,Beauty & Grooming,cod,10/21/2020,21,M,VA,"Yelverton, Richie",3,silver,1
+61119,110,Kids & Baby,cod,10/19/2020,33,F,IL,"Binette, Yevette",2,standard,1
+61120,1003.96,Women's Fashion,cod,12/29/2020,22,M,FL,"Taub, Tyron",14,silver,0
+21713,102.5,Beauty & Grooming,cod,10/19/2020,63,F,NM,"Jester, Kylee",4,standard,1
+36540,1027.7,Women's Fashion,cod,10/30/2020,18,M,IN,"Northup, Quincy",12,silver,1
+61121,130,Men's Fashion,cod,10/19/2020,74,F,WV,"Spotts, Kathrin",2,standard,1
+61122,110,Men's Fashion,cod,10/19/2020,36,F,TN,"Dillow, Joanne",2,standard,1
+31743,149.9,Men's Fashion,easypay,10/19/2020,64,F,IL,"Beltran, Torri",1,bronze,1
+61123,3651,Women's Fashion,easypay,12/25/2020,39,F,CA,"Bibbins, Tommye",29,gold,0
+61124,129.9,Men's Fashion,cod,10/19/2020,53,F,MO,"Sprinkle, Jina",2,standard,1
+11742,1099.6,Home & Living,cod,1/27/2021,70,F,TX,"Gordon, Babette",3,silver,0
+61125,6777.8,Women's Fashion,cod,10/23/2020,18,M,TX,"Hutsell, Clifford",31,gold,1
+61126,,Kids & Baby,cod,10/19/2020,66,F,IL,"Karsten, Lecia",1,standard,1
+57649,942.1,Women's Fashion,cod,11/27/2020,36,M,CA,"Boser, Trey",6,silver,0
+61127,2305,Mobiles & Tablets,easypay,10/19/2020,22,M,PA,"Drucker, Rocky",2,silver,1
+19159,1390.01,Mobiles & Tablets,cod,12/24/2020,46,F,MD,"Dejong, Rosella",16,silver,0
+61128,291.9,Women's Fashion,cod,10/24/2020,23,M,NC,"Rew, Reinaldo",3,bronze,1
+6873,224.9,Men's Fashion,cod,12/29/2020,43,M,KY,"Kimura, Bo",6,bronze,0
+61129,5120.4,Mobiles & Tablets,easypay,10/19/2020,35,M,OH,"Winn, Weldon",2,gold,1
+37062,2194.5,Mobiles & Tablets,cod,12/25/2020,35,F,SD,"Santora, Misha",8,silver,0
+61130,980,Beauty & Grooming,cod,10/19/2020,32,M,TX,"Aybar, Emile",2,silver,1
+61131,425,Men's Fashion,cod,10/19/2020,45,F,NC,"Wold, Billie",6,bronze,1
+44834,2620.28,Women's Fashion,cod,4/28/2021,48,F,AL,"Thomson, Renee",17,gold,0
+59845,169.8,Women's Fashion,cod,10/19/2020,31,M,NJ,"Chamberland, Irving",3,bronze,1
+43266,110,Women's Fashion,cod,10/19/2020,45,F,AR,"Parkman, Ghislaine",1,standard,1
+61132,2267.2,Health & Sports,cod,12/27/2020,45,F,NJ,"Sturgeon, Lory",4,silver,0
+61133,85,Men's Fashion,cod,10/19/2020,74,M,IN,"Sims, Bryon",1,,1
+61134,490,Beauty & Grooming,cod,10/19/2020,31,F,IL,"Mckamey, Jaye",1,bronze,1
+61135,36,Health & Sports,cod,10/19/2020,56,F,CT,"Kist, Avis",1,standard,1
+59623,6614,Beauty & Grooming,cod,10/26/2020,63,M,IA,"Hammack, Michael",7,gold,1
+61136,100,Beauty & Grooming,cod,10/19/2020,40,F,TX,"Baylis, Crystle",3,standard,1
+50364,5891.7,Women's Fashion,easypay,12/25/2020,31,F,UT,"Snyder, Katrina",13,gold,0
+61137,618.6,Mobiles & Tablets,cod,10/19/2020,19,M,NY,"Andrew, Kendrick",1,silver,1
+30112,453.5,Beauty & Grooming,cod,10/24/2020,30,F,ID,"Wager, Shawnee",10,bronze,1
+61138,335,Women's Fashion,cod,10/19/2020,56,M,MI,"Bruning, Nigel",3,bronze,1
+61139,27.5,Men's Fashion,cod,10/19/2020,45,M,NC,"Sternberg, Sammie",1,standard,1
+61140,49,Beauty & Grooming,cod,10/19/2020,68,M,CT,"Cayer, Elias",1,standard,1
+61141,29.9,Men's Fashion,cod,10/19/2020,63,M,MO,"Varnado, Louie",1,standard,1
+61142,18450,Entertainment,easypay,10/19/2020,44,F,FL,"Kitt, Indira",2,platinum,1
+61143,7223.1,Women's Fashion,cod,12/27/2020,27,F,NY,"Malm, Minnie",36,gold,0
+61144,5304.3,Women's Fashion,cod,11/26/2020,28,M,FL,"Diebold, Leandro",11,gold,0
+27997,2080.8,Beauty & Grooming,cod,10/30/2020,36,F,OH,"Santana, Catherin",23,silver,1
+61145,368.9,Health & Sports,cod,10/20/2020,45,M,TX,"Shutt, Timmy",4,bronze,1
+61146,75,Home & Living,cod,10/20/2020,36,M,SD,"Talty, Thaddeus",1,standard,1
+35137,22950,Mobiles & Tablets,easypay,10/20/2020,21,M,CO,"Macdonald, Jayson",3,platinum,1
+61147,54.9,Men's Fashion,cod,10/20/2020,24,M,OK,"Bucklin, Terry",1,standard,1
+61148,120,Women's Fashion,cod,10/20/2020,46,F,LA,"Boehme, Allison",1,standard,1
+58444,408.4,Soghaat,easypay,10/25/2020,71,F,MO,"Goss, Mirta",7,bronze,1
+61149,98,Women's Fashion,cod,10/20/2020,54,M,FL,"Sayers, Tod",1,standard,1
+61150,371.8,Beauty & Grooming,cod,10/20/2020,48,M,CA,"Redden, Nathanial",6,bronze,1
+51546,469.8,Men's Fashion,easypay,10/28/2020,72,F,KY,"Brighton, Toshiko",5,bronze,1
+54664,639.8,Women's Fashion,jazzwallet,9/26/2021,34,F,PA,"Yeary, Sheridan",6,silver,0
+61151,180,Women's Fashion,cod,10/20/2020,57,M,KS,"Cavitt, Jeromy",1,bronze,1
+61152,3187.02,Appliances,cod,10/20/2020,21,M,OH,"Underwood, Leslie",9,gold,1
+61153,1912,Women's Fashion,cod,10/20/2020,67,M,AL,"Morales, Brad",2,silver,1
+61154,89,Superstore,cod,10/20/2020,22,F,MD,"Etheridge, Cameron",1,standard,1
+32955,11008.07,Appliances,easypay,10/29/2020,50,M,TN,"Vowell, Eddie",39,platinum,1
+49245,6560.3,Women's Fashion,easypay,6/27/2021,23,M,NY,"Dishon, Jermaine",14,gold,0
+61155,,Appliances,jazzwallet,7/27/2021,49,F,MO,"Serpa, Maren",26,gold,0
+53222,7.3,Soghaat,payaxis,10/20/2020,56,M,IL,"Bryd, Stephen",1,standard,1
+61156,490,Beauty & Grooming,cod,10/20/2020,58,F,NY,"Versace, Rebekah",1,bronze,1
+61157,109.9,Men's Fashion,cod,10/20/2020,21,F,NC,"Pate, Daniele",1,standard,1
+31822,110,Health & Sports,cod,10/20/2020,19,F,LA,"Batie, Ginger",1,standard,1
+61158,89.9,Mobiles & Tablets,cod,10/20/2020,30,M,IL,"Martz, Wayne",1,standard,1
+55566,15,Books,cod,10/20/2020,63,F,MO,"Carbone, Nakia",1,standard,1
+10639,50,Men's Fashion,cod,10/20/2020,20,M,NC,"Chipps, Cristobal",1,standard,1
+61159,2944.9,Mobiles & Tablets,cod,12/21/2020,34,F,IL,"Ojeda, Emeline",3,gold,0
+54577,5378.4,Mobiles & Tablets,customercredit,10/23/2020,71,F,OR,"Vangilder, Avelina",3,gold,1
+61160,490,Beauty & Grooming,cod,10/20/2020,28,M,MS,"Blass, Lesley",1,bronze,1
+61161,799.8,Appliances,cod,10/20/2020,18,M,ND,"Strouse, Tanner",2,silver,1
+61162,35,Kids & Baby,cod,10/20/2020,47,M,MN,"Bash, Filiberto",1,standard,1
+61163,234,Women's Fashion,cod,10/20/2020,41,F,TX,"Sholes, Bryanna",2,bronze,1
+7589,95,Women's Fashion,cod,10/20/2020,19,M,FL,"Barbara, Florentino",1,standard,1
+38544,1161.18,Women's Fashion,cod,10/20/2020,23,M,UT,"Wink, Cristopher",7,,1
+61164,1237,Mobiles & Tablets,cod,10/20/2020,31,M,KY,"Harpole, Lauren",1,silver,1
+61165,19362,Appliances,cod,10/20/2020,41,M,WV,"Wales, Humberto",1,,1
+61166,49.5,School & Education,cod,10/20/2020,43,M,OK,"Sprinkle, Kendrick",1,standard,1
+61167,21.5,Kids & Baby,cod,10/20/2020,75,M,MO,"Cobbs, Ollie",1,standard,1
+58858,4463.5,Women's Fashion,cod,10/20/2020,29,M,MO,"Shipp, Norman",13,gold,1
+42595,10195.25,Mobiles & Tablets,easypay,12/29/2020,61,F,LA,"Roa, Roberta",8,platinum,0
+61168,490,Beauty & Grooming,easypay,10/20/2020,47,F,OH,"Curtiss, Sheridan",1,bronze,1
+61169,25,Women's Fashion,cod,10/20/2020,41,F,NC,"Agan, Agnes",1,standard,1
+61170,111,Mobiles & Tablets,cod,10/20/2020,28,M,ME,"Lemmon, Dewayne",1,standard,1
+61171,205.6,Mobiles & Tablets,cod,10/20/2020,65,F,CA,"Boatner, Reyna",1,bronze,1
+61172,431.6,Women's Fashion,cod,10/20/2020,26,M,ME,"Koo, Gerald",2,bronze,1
+54549,135,Women's Fashion,cod,10/20/2020,39,F,NV,"Hackbarth, Kerstin",1,standard,1
+21305,46.5,Men's Fashion,cod,10/20/2020,33,F,TX,"Rabago, Lera",2,standard,1
+9134,550.58,Men's Fashion,payaxis,12/27/2020,50,M,VA,"Eddy, Jordon",9,silver,0
+28215,8771.96,Women's Fashion,cod,12/28/2020,52,M,ME,"Cargo, Arturo",7,gold,0
+43948,139.7,Men's Fashion,cod,10/20/2020,39,F,MI,"Keener, Luba",3,standard,1
+61173,4979.9,Mobiles & Tablets,easypay,12/28/2020,39,M,ME,"Raskin, Avery",8,gold,0
+54320,3730.8,Home & Living,easypay,10/29/2020,49,M,AZ,"Fiedler, Raymond",8,gold,1
+56047,1226,Women's Fashion,cod,10/29/2020,41,F,IN,"Ricks, Deloras",10,silver,1
+50256,,Soghaat,easypay,1/31/2021,66,F,NC,"Cordova, Isela",226,platinum,0
+61174,278,Kids & Baby,cod,10/20/2020,63,F,MN,"Andrus, Rosann",4,bronze,1
+61175,650,Beauty & Grooming,cod,10/20/2020,53,M,MT,"Choe, Gary",1,silver,1
+45707,275,Women's Fashion,cod,10/20/2020,55,M,CA,"Miguel, Lino",1,bronze,1
+61176,225,Beauty & Grooming,easypay,10/21/2020,51,F,CA,"Schoenrock, Vernia",1,bronze,1
+61177,,Women's Fashion,cod,10/21/2020,68,M,PA,"Koerner, Malcom",1,standard,1
+61178,167.6,Entertainment,cod,10/21/2020,29,F,TX,"Blanding, Soledad",1,bronze,1
+61179,63.92,Men's Fashion,cod,10/21/2020,41,F,AZ,"Dashiell, Bridgette",1,standard,1
+61180,2895.6,Women's Fashion,easypay,5/30/2021,57,F,PA,"Swasey, Siu",16,gold,0
+22936,169,Beauty & Grooming,cod,10/29/2020,63,F,NY,"Stolp, Meg",3,bronze,1
+43058,2286.26,Women's Fashion,cod,9/29/2021,54,F,IA,"Blossom, Vicky",17,silver,0
+61181,2593.6,Women's Fashion,cod,10/21/2020,66,M,KY,"Malchow, Valentin",3,gold,1
+61182,436.6,Home & Living,cod,9/29/2021,67,F,GA,"Doney, Ewa",2,bronze,0
+7308,29821.16,Women's Fashion,cod,10/31/2020,19,M,TN,"Dilday, Darnell",54,platinum,1
+61183,150,Women's Fashion,cod,10/21/2020,43,F,VA,"Mclin, Rene",1,bronze,1
+58510,2525.64,Mobiles & Tablets,payaxis,10/25/2020,53,F,NY,"Renard, Laurel",6,silver,1
+61184,490,Beauty & Grooming,cod,10/21/2020,23,F,NJ,"Lisk, Amal",1,bronze,1
+61185,139.9,Women's Fashion,cod,10/21/2020,43,M,MA,"Trigg, Caleb",1,standard,1
+61186,,Health & Sports,cod,10/21/2020,35,F,WV,"Carico, Nguyet",1,standard,1
+61187,124.4,Men's Fashion,cod,10/21/2020,37,M,MN,"Stamp, Nigel",2,,1
+52688,655.5,Entertainment,cod,11/29/2020,43,F,OK,"Palmeri, Rozanne",3,silver,1
+61188,2076.97,Health & Sports,,12/25/2020,26,F,IL,"Chafin, Hailey",4,silver,0
+42661,94.5,Health & Sports,cod,10/21/2020,50,M,IL,"Sistrunk, Luciano",1,standard,1
+48998,72,Mobiles & Tablets,cod,10/21/2020,63,F,PA,"Alpert, Jae",1,standard,1
+61189,650,Beauty & Grooming,cod,10/21/2020,55,M,NY,"Shoults, Mikel",1,silver,1
+24338,3208,Entertainment,payaxis,10/21/2020,67,M,KY,"Miceli, Jeffrey",2,gold,1
+61190,210,Men's Fashion,cod,10/21/2020,49,F,WI,"Keitt, Corazon",2,bronze,1
+61191,1237,Mobiles & Tablets,cod,10/21/2020,49,M,CA,"Lavalle, Rashad",1,silver,1
+61192,100,Men's Fashion,cod,10/21/2020,41,F,AR,"Benefiel, Kirsten",1,standard,1
+33518,649.4,Men's Fashion,cod,10/31/2020,75,F,NY,"Randolph, Louisa",9,silver,1
+61193,125,Men's Fashion,cod,10/21/2020,35,M,FL,"Erdman, Clinton",2,standard,1
+61194,110,Men's Fashion,cod,10/21/2020,28,M,OH,"Holte, Les",1,standard,1
+61195,267.1,Men's Fashion,cod,10/26/2020,70,M,NY,"Fenley, Kenton",3,bronze,1
+61196,130,Men's Fashion,cod,10/21/2020,68,M,MO,"Yingst, Brain",2,standard,1
+61197,100,Home & Living,cod,10/21/2020,65,F,PA,"Holmquist, Dalene",1,standard,1
+61198,480,Men's Fashion,payaxis,10/21/2020,52,M,NE,"Rudisill, Carlos",3,bronze,1
+61199,215,Men's Fashion,cod,10/21/2020,39,F,NE,"Concannon, Gertrude",4,bronze,1
+61200,160,Men's Fashion,cod,10/21/2020,66,M,MN,"Carrier, Edmundo",3,bronze,1
+12661,294.9,Mobiles & Tablets,cod,10/21/2020,66,M,TX,"Noto, Lloyd",1,bronze,1
+61201,160,Men's Fashion,cod,10/21/2020,22,F,VA,"Wilkens, Ira",2,bronze,1
+61202,8344,Appliances,cod,10/26/2020,28,M,SD,"Worthley, Tyler",8,gold,1
+61203,90.9,Computing,cod,10/21/2020,58,F,IA,"Pollak, Shantel",1,standard,1
+61204,26513.2,Beauty & Grooming,customercredit,10/29/2020,29,F,TX,"Casperson, Cheyenne",21,platinum,1
+61205,167.5,Home & Living,cod,10/21/2020,24,F,WI,"Loudermilk, Ilana",2,bronze,1
+20059,1309.7,Appliances,cod,7/29/2021,59,M,PA,"Scriven, Boris",4,silver,0
+61206,254.9,Home & Living,cod,10/21/2020,60,M,IL,"Cantwell, Cortez",1,bronze,1
+61207,105,Men's Fashion,cod,10/21/2020,58,F,MO,"Scoles, Thomasine",2,standard,1
+61208,446,Appliances,cod,10/21/2020,69,F,NY,"Millikan, Ryann",1,bronze,1
+61209,300,Health & Sports,,10/21/2020,46,M,FL,"Plain, Foster",1,bronze,1
+42031,26353.54,Entertainment,payaxis,10/31/2020,33,F,TN,"Luongo, Elva",17,platinum,1
+61210,352,Mobiles & Tablets,cod,10/21/2020,63,M,MN,"Loving, Merlin",1,bronze,1
+61211,89.9,Men's Fashion,cod,10/21/2020,69,M,OH,"Keefer, Rafael",3,standard,1
+12251,343.9,Men's Fashion,cod,12/31/2020,58,M,SC,"Mendel, Trevor",11,bronze,0
+61212,36.5,School & Education,cod,10/21/2020,23,M,WV,"Penick, Odell",1,standard,1
+61213,97.5,Men's Fashion,cod,10/21/2020,53,M,ME,"Sommerfield, Joel",2,standard,1
+31759,141,Men's Fashion,cod,10/21/2020,59,M,PA,"Langlinais, Cary",1,bronze,1
+61214,4489.6,Women's Fashion,cod,10/26/2020,62,F,OH,"Mcdougal, Lucrecia",13,gold,1
+61215,330,Women's Fashion,cod,10/21/2020,68,F,IN,"Ortis, Daniele",1,bronze,1
+31277,18240.1,Mobiles & Tablets,easypay,10/21/2020,53,F,PA,"Iverson, Peter",2,platinum,1
+61216,1115,Mobiles & Tablets,cod,10/21/2020,35,M,KY,"Johnson, Gordon",1,silver,1
+61217,52.5,Women's Fashion,cod,10/21/2020,61,M,FL,"Hutsell, Alton",1,standard,1
+61218,921.9,Mobiles & Tablets,cod,12/28/2020,46,M,WI,"Venuti, Freddy",2,silver,0
+30038,10192.9,Women's Fashion,cod,11/30/2020,58,M,FL,"Mccreight, Jae",79,platinum,0
+61219,105,Men's Fashion,cod,10/21/2020,26,F,MN,"Pesina, Iona",2,standard,1
+61220,849.9,Mobiles & Tablets,cod,10/21/2020,26,M,NJ,"Eubanks, Hugo",1,silver,1
+61221,125,Men's Fashion,cod,10/21/2020,54,F,VA,"Turner, Eve",2,standard,1
+61222,,Mobiles & Tablets,cod,10/21/2020,70,M,TN,"Majeski, Marshall",1,silver,1
+61223,849.9,Mobiles & Tablets,cod,10/21/2020,73,M,TX,"Brumfield, Avery",1,silver,1
+61224,849.9,Mobiles & Tablets,cod,10/21/2020,56,M,TX,"Pinner, Neal",1,silver,1
+61225,110,Men's Fashion,cod,10/21/2020,24,M,NM,"Brickner, Ezekiel",2,standard,1
+61226,849.9,Mobiles & Tablets,cod,10/21/2020,65,F,TN,"Edelen, Krystal",1,silver,1
+7939,238.4,Superstore,customercredit,10/21/2020,64,F,TN,"Humphery, Lizeth",2,bronze,1
+61227,142,Appliances,cod,10/21/2020,55,M,OH,"Sevigny, Marlin",1,bronze,1
+61228,59.8,Men's Fashion,cod,10/21/2020,61,M,MN,"Mcevoy, Jessie",1,standard,1
+61229,490,Beauty & Grooming,cod,10/21/2020,21,M,KS,"Leiser, Foster",1,bronze,1
+61230,1570,Men's Fashion,cod,10/21/2020,50,F,MT,"Lora, Juliann",2,silver,1
+47061,3395.4,Home & Living,cod,11/27/2020,63,M,IA,"Lindo, Hung",7,gold,0
+61231,1007,Women's Fashion,cod,10/21/2020,74,F,TN,"Schroth, Solange",4,silver,1
+61232,1355.52,Beauty & Grooming,cod,10/22/2020,30,F,PA,"Joyner, Rozella",32,silver,1
+61233,49.9,Beauty & Grooming,cod,10/21/2020,25,F,VA,"Claassen, Kathlene",1,standard,1
+61234,388.5,Superstore,payaxis,10/25/2020,26,M,VT,"Jarmon, Keneth",2,bronze,1
+11090,569,Women's Fashion,cod,10/26/2020,39,M,OR,"Thom, Marcos",2,silver,1
+61235,116.7,Mobiles & Tablets,cod,10/21/2020,34,F,VA,"Mucha, Carry",1,standard,1
+61236,2780.9,Home & Living,cod,10/27/2020,73,F,TX,"Reber, Kandace",17,gold,1
+61237,31.5,Home & Living,cod,10/21/2020,70,M,IA,"Ornellas, Andrea",1,standard,1
+61238,1040,Beauty & Grooming,cod,3/29/2021,42,M,NY,"Yeates, Cleo",2,silver,0
+22151,815.26,Appliances,easypay,10/21/2020,25,M,CA,"Jung, Stephen",6,silver,1
+40110,13922.4,Women's Fashion,cod,10/29/2020,68,F,IN,"Springs, Tien",7,platinum,1
+61239,490,Beauty & Grooming,cod,10/21/2020,70,M,MO,"Chesson, Werner",1,,1
+61240,5,Beauty & Grooming,cod,10/21/2020,70,M,IN,"Bergquist, Thad",1,standard,1
+61241,315,Health & Sports,,4/28/2021,22,F,NY,"Drummond, Heike",3,bronze,0
+61242,2533.2,Appliances,payaxis,10/22/2020,61,F,IA,"Crume, Kelsie",6,gold,1
+18445,4643.6,Appliances,jazzwallet,9/27/2021,49,M,NC,"Macedo, Harold",10,gold,0
+61243,195,Men's Fashion,cod,10/21/2020,71,F,OK,"Brant, Ella",2,bronze,1
+6704,3905.4,Home & Living,,11/30/2020,54,M,VA,"Dark, Pablo",18,gold,0
+61244,,Health & Sports,cod,10/21/2020,60,F,MN,"Ellefson, Arla",1,standard,1
+61245,490,Beauty & Grooming,cod,10/21/2020,35,F,IA,"Fitzhugh, Juanita",1,bronze,1
+61246,1029.9,Mobiles & Tablets,easypay,10/21/2020,21,M,VA,"Kephart, Philip",2,silver,1
+61247,73.7,Men's Fashion,cod,10/23/2020,30,M,OK,"Mcnear, Douglass",2,standard,1
+12044,1820.59,Men's Fashion,easypay,12/23/2020,21,F,WV,"Travers, Jammie",22,silver,0
+61248,490,Beauty & Grooming,cod,10/22/2020,66,M,MO,"Schrader, Milo",1,bronze,1
+56956,,Women's Fashion,cod,10/22/2020,61,F,MD,"Robinette, Augusta",12,gold,1
+141,3208.05,Soghaat,cod,4/28/2021,31,F,AL,"Chastain, Cristi",25,gold,0
+61249,139.8,Mobiles & Tablets,cod,10/31/2020,48,M,LA,"Aldrich, Leif",2,standard,1
+16167,452.01,Mobiles & Tablets,cod,12/22/2020,34,F,MO,"Izaguirre, Elvera",3,bronze,0
+17130,1644,Others,payaxis,4/29/2021,36,M,PA,"Hillery, Emanuel",4,silver,0
+57501,8614.43,Women's Fashion,cod,10/22/2020,69,M,NJ,"Parkhill, Donovan",16,gold,1
+61250,3387.8,Men's Fashion,cod,10/24/2020,26,F,TN,"Ingram, Geraldine",7,gold,1
+61251,1661.8,Entertainment,cod,10/29/2020,72,F,PA,"Arambula, Hilary",9,silver,1
+61252,849.9,Mobiles & Tablets,cod,10/22/2020,50,M,IA,"Sawyer, Steven",1,silver,1
+391,416.4,Women's Fashion,cod,10/22/2020,21,F,TX,"Hafer, Jack",1,bronze,1
+61253,105,Men's Fashion,cod,10/22/2020,42,F,TX,"Perham, Shanice",2,standard,1
+61254,105,Men's Fashion,cod,10/22/2020,37,F,OH,"Hopes, Pearline",2,standard,1
+61255,2059.9,Mobiles & Tablets,cod,10/22/2020,38,M,LA,"Howze, Chi",1,silver,1
+42458,270,Mobiles & Tablets,cod,10/22/2020,19,F,NY,"Scales, Lily",1,bronze,1
+61256,119.9,Computing,cod,10/22/2020,43,F,WV,"Urbanski, Cathie",2,standard,1
+49127,139180.76,Appliances,cod,12/31/2020,24,F,KY,"Fitzsimmons, Grace",158,platinum,0
+61257,490,Beauty & Grooming,cod,10/22/2020,47,F,NY,"Perry, Ellamae",1,bronze,1
+42752,5449.8,Men's Fashion,jazzwallet,10/22/2020,64,F,FL,"Fifer, Aleida",2,gold,1
+54976,369,Superstore,cod,10/22/2020,34,M,MA,"Salvatore, Austin",13,bronze,1
+61258,1998,Health & Sports,cod,10/22/2020,53,F,PA,"Lahr, Rosa",1,silver,1
+3314,8704.24,Beauty & Grooming,cod,4/30/2021,51,M,NY,"Gentile, Ollie",64,gold,0
+49023,2949.9,Men's Fashion,cod,10/31/2020,66,M,WI,"Foster, Emmett",12,gold,1
+7831,5439.7,Beauty & Grooming,cod,12/27/2020,75,F,AR,"Sheriff, Jacquelyn",13,gold,0
+61259,736,Home & Living,cod,10/22/2020,59,F,OH,"Vaca, Mae",1,,1
+61260,1391.8,Mobiles & Tablets,cod,10/22/2020,46,M,NY,"Kangas, Bryan",1,silver,1
+61261,1259.9,Mobiles & Tablets,cod,10/22/2020,30,M,SC,"Haught, Mitchell",1,silver,1
+61262,270,Home & Living,cod,10/22/2020,44,F,AL,"Grogg, Annice",1,bronze,1
+61263,330,Men's Fashion,cod,10/22/2020,66,M,MN,"Dry, Eldon",3,bronze,1
+61264,32,Soghaat,cod,10/22/2020,45,M,LA,"Normand, Kory",1,standard,1
+13049,634.5,Home & Living,easypay,1/23/2021,35,F,CT,"Fell, Moriah",2,silver,0
+61265,959.9,Mobiles & Tablets,cod,10/22/2020,24,F,VA,"Willems, Lashonda",1,silver,1
+61266,490,Beauty & Grooming,cod,10/22/2020,75,F,FL,"Uhlig, Remona",1,bronze,1
+61267,62.5,Men's Fashion,cod,10/22/2020,68,M,IL,"Irish, Cornell",1,standard,1
+61268,698,Women's Fashion,cod,10/22/2020,23,M,CA,"Mcconkey, Julian",8,silver,1
+61269,600,Mobiles & Tablets,cod,10/29/2020,25,M,NJ,"Nunn, Fermin",3,silver,1
+61270,373.2,Women's Fashion,cod,10/22/2020,48,F,OH,"Castanon, Alethia",4,bronze,1
+61271,,Beauty & Grooming,cod,10/22/2020,38,F,FL,"Dysart, Irish",4,silver,1
+1916,600.9,Women's Fashion,cod,10/29/2020,23,F,CA,"Branstetter, Marceline",11,silver,1
+61272,2519.8,Mobiles & Tablets,cod,10/22/2020,54,F,MO,"Fleet, Shay",2,silver,1
+61273,426.3,Women's Fashion,,10/30/2020,61,M,PA,"Nix, Leo",7,bronze,1
+57518,9587.5,Entertainment,cod,10/22/2020,35,F,IA,"Reddick, Keva",1,gold,1
+61274,1391.8,Mobiles & Tablets,cod,10/22/2020,56,M,OH,"Dinger, Von",1,silver,1
+59536,1775,Superstore,payaxis,10/22/2020,44,F,PA,"Brundidge, Faye",5,silver,1
+61275,204.7,Men's Fashion,cod,10/22/2020,55,M,LA,"Sliva, Rupert",4,bronze,1
+61276,18901.7,Women's Fashion,payaxis,10/27/2020,65,F,MS,"Poulson, Kendal",9,platinum,1
+61277,77.5,Mobiles & Tablets,cod,10/22/2020,30,F,PA,"Nickell, Kecia",1,standard,1
+40739,1009.9,Mobiles & Tablets,cod,10/22/2020,60,F,OK,"Sloane, Nam",1,silver,1
+61278,135,Women's Fashion,cod,10/22/2020,59,M,SC,"Rittenhouse, Antoine",1,standard,1
+61279,120,Men's Fashion,cod,10/22/2020,56,M,NJ,"Chew, Scotty",2,standard,1
+61280,,Mobiles & Tablets,cod,10/26/2020,49,F,MT,"Mickey, Bruna",4,silver,1
+61281,2299.9,Mobiles & Tablets,cod,10/22/2020,20,F,CA,"Larocque, Agustina",1,silver,1
+43498,3914.86,Men's Fashion,cod,7/31/2021,28,F,CA,"Condrey, Honey",62,gold,0
+61282,284.95,Women's Fashion,cod,10/22/2020,58,M,NY,"Dizon, Jamar",3,bronze,1
+32104,101428.43,Entertainment,easypay,3/31/2021,43,F,DE,"Bolinger, Danita",128,platinum,0
+41547,50616.04,Others,easypay,4/30/2021,28,M,MO,"Willams, Minh",67,platinum,0
+61283,520.4,Beauty & Grooming,cod,12/24/2020,22,M,TX,"Lapine, Jamal",10,silver,0
+61284,490,Beauty & Grooming,cod,10/22/2020,51,F,PA,"Logston, Toby",1,bronze,1
+61285,279.6,Men's Fashion,cod,10/22/2020,61,F,MT,"Grunwald, Florrie",2,bronze,1
+61286,,Mobiles & Tablets,easypay,10/22/2020,46,M,AL,"Gleaves, Rich",1,silver,1
+61287,136,Health & Sports,cod,9/29/2021,69,M,OK,"Joe, Efren",6,standard,0
+3011,69.9,Mobiles & Tablets,customercredit,10/22/2020,42,M,CA,"Miner, Donald",1,standard,1
+35368,360,Women's Fashion,cod,10/22/2020,60,F,TX,"Seiter, Dorris",2,bronze,1
+46020,1119.7,Women's Fashion,cod,10/23/2020,67,F,NE,"Gourdine, Trinity",4,silver,1
+61288,215,Women's Fashion,cod,10/22/2020,58,F,NJ,"Devine, Maranda",2,bronze,1
+34761,310,Women's Fashion,cod,10/22/2020,28,M,WI,"Dahmen, Guadalupe",2,bronze,1
+42588,28313.12,Superstore,payaxis,1/31/2021,75,M,PA,"Moro, Gerald",113,platinum,0
+50321,980,Beauty & Grooming,cod,10/22/2020,59,F,VA,"Crittenden, Cornelia",2,silver,1
+61289,207.4,Health & Sports,cod,2/27/2021,45,F,MN,"Poole, Nicole",5,bronze,0
+53439,197.5,Health & Sports,cod,10/22/2020,44,F,CT,"Pavlik, Rosaura",2,bronze,1
+28548,1799.8,Entertainment,cod,10/23/2020,56,M,VT,"Barbosa, Caleb",2,silver,1
+395,838.6,Mobiles & Tablets,cod,10/23/2020,71,M,VA,"Whiteman, Claud",12,silver,1
+61290,2309.3,Women's Fashion,easypay,10/26/2020,19,F,TX,"Auman, Celestina",9,silver,1
+61291,262.9,Health & Sports,cod,10/27/2020,37,F,NM,"Milburn, Lilla",3,bronze,1
+61292,30,Men's Fashion,cod,10/23/2020,34,F,KS,"Matthes, Matilda",1,standard,1
+61293,,Mobiles & Tablets,cod,10/23/2020,18,M,OH,"Rank, Don",2,silver,1
+61294,14300.95,Women's Fashion,cod,10/23/2020,23,M,WV,"Sieben, Randell",15,platinum,1
+2844,314861.1,Mobiles & Tablets,bankalfalah,7/30/2021,69,M,IL,"Matthias, Jay",92,platinum,0
+61295,444.1,Home & Living,payaxis,10/23/2020,47,F,IN,"Klima, Gertie",1,bronze,1
+61296,138364.6,Mobiles & Tablets,bankalfalah,3/24/2021,60,F,MN,"Thiele, Lia",41,,0
+61297,963.8,Soghaat,cod,10/23/2020,47,F,NY,"Westover, Berna",4,silver,1
+61298,383.41,Men's Fashion,customercredit,10/23/2020,38,M,WA,"Birch, Waldo",5,bronze,1
+61299,99.9,Men's Fashion,cod,10/28/2020,20,M,AK,"Sheperd, Buster",2,standard,1
+28074,3061,Mobiles & Tablets,payaxis,10/24/2020,54,M,NY,"Mccracken, Irving",3,gold,1
+61300,91,Home & Living,cod,10/23/2020,18,M,IA,"Gilman, Jonas",1,standard,1
+61301,115,Men's Fashion,cod,10/23/2020,71,M,KS,"Yuen, Arnoldo",2,standard,1
+61302,448,Men's Fashion,cod,10/23/2020,24,F,OH,"Hocking, Delorse",8,bronze,1
+61303,150,Men's Fashion,cod,10/23/2020,67,F,VA,"Grigg, Lilly",2,bronze,1
+57853,19292.73,Beauty & Grooming,customercredit,11/29/2020,61,F,VA,"Nickens, Sibyl",24,platinum,0
+61304,90.9,Computing,cod,10/23/2020,62,F,IL,"Ormond, Maura",1,standard,1
+61305,800,Home & Living,,10/23/2020,28,F,MN,"Granda, Lezlie",3,,1
+61306,33.6,Mobiles & Tablets,cod,10/23/2020,40,M,GA,"Schoenberger, Edmundo",2,standard,1
+31656,2777.3,Mobiles & Tablets,payaxis,10/24/2020,20,F,IA,"Kettner, Verlene",3,gold,1
+47723,70,Men's Fashion,cod,10/23/2020,32,M,MA,"Shah, Rudy",1,standard,1
+61307,,Mobiles & Tablets,cod,10/23/2020,67,M,PA,"Rippeon, Grover",1,gold,1
+5293,27.9,Men's Fashion,cod,10/23/2020,72,M,FL,"Pellot, Randall",1,standard,1
+61308,143.7,Mobiles & Tablets,cod,10/23/2020,64,M,VA,"Baumgartner, Lorenzo",1,bronze,1
+61309,1009.9,Mobiles & Tablets,cod,10/23/2020,32,F,TN,"Lackey, Hermelinda",1,silver,1
+2119,16941.17,Men's Fashion,easypay,10/29/2020,33,M,AZ,"Veatch, Thaddeus",18,platinum,1
+61310,340,Women's Fashion,cod,10/23/2020,74,M,MI,"Ferrel, Numbers",3,bronze,1
+61311,149.9,Health & Sports,cod,10/23/2020,46,M,CT,"Fournier, Karl",1,bronze,1
+61312,19.9,Men's Fashion,customercredit,10/23/2020,23,M,MA,"Casperson, Aubrey",1,standard,1
+61313,39.9,Health & Sports,cod,10/23/2020,45,F,KY,"Batton, Savanna",1,standard,1
+61314,99.9,Books,cod,10/23/2020,46,M,NE,"Nipp, Eli",1,standard,1
+61315,43180.4,Mobiles & Tablets,easypay,10/31/2020,65,M,CO,"Billman, Leon",15,platinum,1
+10995,300,Women's Fashion,cod,10/23/2020,25,F,AZ,"Lindell, Jonna",1,bronze,1
+61316,100,Home & Living,cod,10/23/2020,25,M,PA,"August, Boyd",1,standard,1
+40703,1099.2,Kids & Baby,cod,10/23/2020,38,M,KY,"Caperton, Loyd",13,silver,1
+61317,180.8,Men's Fashion,cod,10/23/2020,66,M,NC,"Sabella, Omar",2,bronze,1
+55276,10175.48,Mobiles & Tablets,payaxis,2/26/2021,38,M,FL,"Blade, Cameron",56,platinum,0
+41217,50,Men's Fashion,cod,10/23/2020,24,F,SC,"Dipaolo, Wai",1,standard,1
+50217,2350,Mobiles & Tablets,easypay,10/23/2020,62,F,IN,"Leatherwood, Tiffani",2,silver,1
+38095,1700.2,Appliances,customercredit,11/29/2020,29,M,IL,"Dore, Delbert",3,silver,0
+61318,199,Kids & Baby,cod,11/28/2020,67,F,NC,"Rickett, Richard",2,bronze,0
+61319,180,Men's Fashion,cod,10/23/2020,44,M,WV,"Dryer, Orlando",1,bronze,1
+39574,4119.8,Mobiles & Tablets,payaxis,10/23/2020,70,F,CA,"Parmelee, Patty",2,gold,1
+13793,7474.3,Mobiles & Tablets,,10/23/2020,67,M,OH,"Schuyler, Chung",4,gold,1
+56747,172.7,Kids & Baby,cod,10/23/2020,39,F,AL,"Chason, Slyvia",2,bronze,1
+61320,277.5,Mobiles & Tablets,cod,10/23/2020,72,M,AZ,"Brough, Guillermo",1,bronze,1
+48886,2059.9,Mobiles & Tablets,financesettlement,10/23/2020,44,F,GA,"Jamison, Cassi",1,silver,1
+5747,2540.8,Women's Fashion,cod,10/23/2020,75,F,MI,"Burkey, Dolly",14,gold,1
+1482,431.8,Soghaat,cod,10/26/2020,34,F,MO,"Hoekstra, Retta",14,bronze,1
+44203,1650,Men's Fashion,cod,10/23/2020,51,F,MA,"Duby, Twila",1,silver,1
+59716,924.52,Women's Fashion,easypay,10/23/2020,26,M,GA,"Eaton, Harrison",3,silver,1
+61321,344.4,Mobiles & Tablets,cod,10/23/2020,47,F,IN,"Carrara, Cristi",1,bronze,1
+61322,6500,Mobiles & Tablets,cod,10/23/2020,63,F,PA,"Keever, Tyesha",1,gold,1
+56719,38455.79,Women's Fashion,bankalfalah,8/28/2021,37,M,VT,"Dingus, Terrell",94,platinum,0
+45050,1181.2,Appliances,easypay,10/23/2020,40,F,WI,"Hermanson, Kaleigh",6,silver,1
+61323,0,Books,cod,10/23/2020,59,F,SC,"Hitt, Sharda",1,standard,1
+61324,239.4,Mobiles & Tablets,cod,10/23/2020,74,F,VA,"Anstett, Emogene",3,bronze,1
+61325,100,Men's Fashion,cod,10/23/2020,20,F,PA,"Brigance, Velvet",1,standard,1
+58515,100,Men's Fashion,cod,10/23/2020,49,F,IL,"Monico, Gertie",1,standard,1
+61326,135.5,Women's Fashion,cod,10/23/2020,43,F,IA,"Hatley, Pia",5,standard,1
+61327,25,Men's Fashion,cod,10/23/2020,69,F,VA,"Marti, Carrol",1,standard,1
+23228,47.5,Home & Living,cod,10/23/2020,51,F,NC,"Lavalley, Janessa",1,standard,1
+40496,449,Men's Fashion,cod,10/25/2020,22,M,TX,"Hannan, Isaiah",10,bronze,1
+61328,825.3,Women's Fashion,cod,10/23/2020,53,F,OH,"Stanger, Cristal",4,silver,1
+779,1424.3,Men's Fashion,cod,9/26/2021,48,F,WI,"Quill, Effie",13,silver,0
+61329,16.5,Beauty & Grooming,cod,10/23/2020,47,M,NE,"Mayville, Lloyd",1,standard,1
+59424,9515.4,Entertainment,cod,10/23/2020,72,F,NJ,"Gonsalez, Salina",8,gold,1
+61330,1937.3,Superstore,cod,10/25/2020,37,M,TX,"June, Florencio",11,silver,1
+61331,4039.74,Mobiles & Tablets,payaxis,3/31/2021,41,M,IA,"France, Anton",2,gold,0
+47178,1425.5,Appliances,easypay,10/28/2020,67,M,FL,"Melendy, Maxwell",9,silver,1
+61332,10094.63,Mobiles & Tablets,payaxis,12/25/2020,66,F,MD,"Crepeau, Ileen",7,platinum,0
+18444,1837.48,Mobiles & Tablets,easypay,10/31/2020,27,F,TN,"Hisey, Oma",4,silver,1
+61333,322.2,Mobiles & Tablets,cod,10/24/2020,43,M,NE,"Spires, Manuel",1,bronze,1
+61334,5189.64,Mobiles & Tablets,payaxis,3/31/2021,37,M,MO,"Barker, Ernie",3,gold,0
+46070,215.05,Mobiles & Tablets,easypay,10/24/2020,69,M,FL,"Cimino, Arturo",4,bronze,1
+61335,1600.63,Superstore,payaxis,10/25/2020,64,F,CA,"Eggert, Dalia",4,silver,1
+43467,49253.4,Mobiles & Tablets,easypay,10/31/2020,66,M,IN,"Houston, Daniel",45,platinum,1
+43867,200,Health & Sports,,10/24/2020,67,M,MO,"Pedigo, Daniel",1,bronze,1
+58718,7478.56,Superstore,payaxis,10/31/2020,64,F,TX,"Willems, Chrissy",9,gold,1
+44909,10387.56,Health & Sports,payaxis,10/24/2020,58,F,IA,"Baca, Dorine",31,platinum,1
+47403,2052.16,Superstore,cod,10/24/2020,50,M,NY,"Grillo, Isreal",16,silver,1
+38002,37.3,Health & Sports,cod,10/24/2020,39,F,CA,"Mcguigan, Ava",3,standard,1
+39793,6059.8,Mobiles & Tablets,payaxis,10/24/2020,73,M,PA,"Oliver, Adolfo",2,gold,1
+61336,73.9,Computing,cod,10/24/2020,33,F,MD,"Wigington, Joette",1,standard,1
+61337,3703.15,Superstore,cod,11/29/2020,53,F,ME,"Cumbie, Kourtney",26,gold,0
+61338,960.4,Mobiles & Tablets,cod,10/24/2020,62,M,NJ,"Cockrell, Barney",3,silver,1
+61339,963.9,Soghaat,cod,10/24/2020,67,M,OH,"Schroeter, Kristofer",4,silver,1
+51598,959.9,Mobiles & Tablets,cod,10/24/2020,69,F,WV,"Huffman, Lezlie",1,silver,1
+61340,2566,Men's Fashion,,10/24/2020,67,M,IA,"Stimson, Rayford",34,gold,1
+61341,0,Books,cod,10/24/2020,31,M,TX,"Jara, Moshe",1,standard,1
+61342,1411.83,Mobiles & Tablets,payaxis,10/24/2020,47,M,PA,"Ahrens, Danial",1,silver,1
+61343,38755.76,Mobiles & Tablets,easypay,12/24/2020,21,F,GA,"Worrell, Judy",21,platinum,0
+61344,861.6,Superstore,payaxis,10/25/2020,40,M,IN,"Blass, Phil",5,silver,1
+61345,2804.75,Mobiles & Tablets,easypay,10/24/2020,47,M,AL,"Catt, Sanford",2,gold,1
+56989,8185.2,Appliances,easypay,10/31/2020,56,M,MI,"Baskerville, Denny",7,gold,1
+61346,169.8,Men's Fashion,cod,10/24/2020,63,M,AL,"Nyberg, Sergio",1,bronze,1
+21168,892.4,Entertainment,jazzwallet,2/27/2021,39,M,KS,"Moscato, Wilford",3,silver,0
+479,36863.39,Superstore,easypay,12/31/2020,64,M,NY,"Forster, Johnathon",171,platinum,0
+61347,68.2,Men's Fashion,cod,10/24/2020,61,F,WA,"Poole, Ashlee",2,standard,1
+61348,6212.13,Mobiles & Tablets,payaxis,10/24/2020,69,F,SD,"Sensabaugh, Helene",5,gold,1
+58295,0,Books,cod,10/24/2020,61,F,NC,"Schlichting, Temika",1,standard,1
+61349,,Mobiles & Tablets,,10/24/2020,75,F,FL,"Craighead, Lavera",2,silver,1
+61350,70,Men's Fashion,cod,10/24/2020,53,M,FL,"Oreilly, Lamar",1,standard,1
+61351,,Men's Fashion,cod,10/24/2020,41,F,VA,s,2,standard,1
+50511,29983.9,Entertainment,easypay,10/24/2020,62,F,MO,"Edwin, Riva",6,platinum,1
+61352,675,Men's Fashion,cod,10/26/2020,25,F,KS,"Herrington, Sheree",11,silver,1
+61353,7902.1,Mobiles & Tablets,cod,10/24/2020,52,F,SD,"Situ, Leila",1,gold,1
+61354,235,Men's Fashion,cod,10/24/2020,53,M,NJ,"Harley, Jimmie",2,bronze,1
+61355,279.9,Men's Fashion,jazzwallet,10/24/2020,44,M,NH,"Tann, Willie",3,bronze,1
+61356,3088.7,Mobiles & Tablets,cod,10/24/2020,51,M,TX,"Wines, Stanton",1,gold,1
+61357,849.9,Mobiles & Tablets,cod,10/24/2020,74,F,WV,"Gibbs, Jackeline",1,silver,1
+45731,23479.26,Mobiles & Tablets,payaxis,10/31/2020,52,F,DC,"Solorio, Felicia",25,platinum,1
+13756,70,Men's Fashion,cod,10/24/2020,50,M,WA,"Stockstill, Giovanni",1,standard,1
+61358,69107.96,Entertainment,easypay,10/31/2020,48,M,MO,"Scheffel, Reginald",54,platinum,1
+36280,140,Men's Fashion,cod,10/24/2020,53,M,NE,"Cowgill, Edmundo",2,standard,1
+61359,1659.9,Mobiles & Tablets,payaxis,10/24/2020,30,M,MT,"Aurand, Ashley",1,silver,1
+58008,4305.9,Superstore,easypay,10/31/2020,33,M,WV,"Swaim, Gregory",38,gold,1
+61360,195,Men's Fashion,cod,10/24/2020,74,F,NC,"Quattlebaum, Genny",4,bronze,1
+61361,1450,Mobiles & Tablets,payaxis,10/24/2020,57,M,IL,"Keefe, Max",1,silver,1
+61362,53.8,Kids & Baby,cod,10/24/2020,39,M,MT,"Cathcart, Rhett",2,standard,1
+61363,29.9,Men's Fashion,cod,10/24/2020,38,M,IN,"Haag, Denis",1,standard,1
+61364,,Mobiles & Tablets,payaxis,10/24/2020,32,M,ND,"Lehn, Monroe",3,gold,1
+16593,2189.68,Superstore,payaxis,10/29/2020,19,M,NY,"Vo, Terry",43,silver,1
+61365,105,Men's Fashion,cod,10/24/2020,73,F,KY,"Monks, Aisha",2,standard,1
+50193,396,Appliances,cod,10/24/2020,63,F,SD,"Gosnell, Yasuko",3,bronze,1
+16374,85,Mobiles & Tablets,cod,10/24/2020,60,F,KS,"Rochon, Lesley",1,standard,1
+61366,120,Women's Fashion,cod,10/24/2020,38,F,WI,"Meikle, Keely",1,standard,1
+61367,232,Beauty & Grooming,payaxis,10/24/2020,26,M,AL,"Furlow, Jason",1,bronze,1
+9035,2777.36,Superstore,easypay,1/31/2021,60,M,KY,"Gonyea, Raleigh",23,gold,0
+13855,1824.66,Kids & Baby,cod,10/31/2020,74,F,FL,"Mumaw, Hedy",24,silver,1
+61368,4039.74,Mobiles & Tablets,easypay,3/31/2021,61,M,MT,"Mosby, Jackson",2,gold,0
+61369,13749.41,Mobiles & Tablets,easypay,10/24/2020,25,M,KY,"Popham, Mariano",9,platinum,1
+61370,85,Mobiles & Tablets,cod,10/24/2020,43,M,MS,"Kinsey, Norberto",1,standard,1
+59817,110.9,Soghaat,cod,12/27/2020,68,F,MA,"Hein, Oda",5,standard,0
+61371,9523.59,Mobiles & Tablets,easypay,10/24/2020,56,M,WV,"Hinojos, Wilfred",8,gold,1
+61372,505,Beauty & Grooming,cod,10/24/2020,34,F,AL,"Garnica, Magdalen",4,silver,1
+61373,2454.74,Mobiles & Tablets,easypay,3/31/2021,52,M,AR,"Dacus, Alec",2,silver,0
+61374,18900.97,Mobiles & Tablets,easypay,10/24/2020,66,F,FL,"Hamlett, Brandee",15,platinum,1
+16984,184.8,Men's Fashion,cod,10/24/2020,46,M,MS,"Olds, Kenneth",2,bronze,1
+61375,2536.73,Mobiles & Tablets,easypay,10/24/2020,52,M,TN,"Mcvay, Cedrick",2,gold,1
+61376,2536.73,Mobiles & Tablets,easypay,10/24/2020,37,F,PA,"Bewley, Kimi",2,gold,1
+61377,2347.2,Soghaat,payaxis,10/28/2020,59,M,TX,"Fiore, Blake",33,silver,1
+61378,310,Women's Fashion,payaxis,10/24/2020,55,F,TX,"Boggan, Sophia",3,bronze,1
+61379,1152.5,Mobiles & Tablets,cod,10/24/2020,57,M,NC,"Riemer, Emory",1,silver,1
+44095,250,Health & Sports,cod,10/24/2020,50,F,VA,"Stoker, Mavis",1,bronze,1
+61380,332.5,Health & Sports,cod,10/24/2020,24,M,IN,"Mower, Nickolas",1,bronze,1
+61177,139.9,Women's Fashion,cod,10/21/2020,68,M,PA,"Koerner, Malcom",1,,1
+60968,24.7,Health & Sports,cod,10/16/2020,27,M,MN,"Vaden, Leonel",1,,1
+60969,,Mobiles & Tablets,cod,10/16/2020,57,M,NY,"Maldonado, Cliff",1,standard,1
+60970,59.9,Mobiles & Tablets,cod,10/16/2020,39,M,NE,"Bracco, Lawrence",1,,1
